@@ -1,0 +1,1115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions on Mr. Congreve's late answer to Mr. Collier in a dialogue between Mr. Smith and Mr. Johnson, with the characters of the present poets, and some offers towards new-modeling the stage.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 60 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25443</idno>
+            <idno type="STC">Wing A3195</idno>
+            <idno type="STC">ESTC R202009</idno>
+            <idno type="EEBO-CITATION">11644616</idno>
+            <idno type="OCLC">ocm 11644616</idno>
+            <idno type="VID">47976</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47976)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 7:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions on Mr. Congreve's late answer to Mr. Collier in a dialogue between Mr. Smith and Mr. Johnson, with the characters of the present poets, and some offers towards new-modeling the stage.</title>
+               </titleStmt>
+               <extent>[29], 88 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Nutt ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congreve, William, 1670-1729. --  Amendments of Mr. Collier's false and imperfect citations.</term>
+               <term>Collier, Jeremy, 1650-1726.</term>
+               <term>Theater --  England.</term>
+               <term>Theater --  Moral and ethical aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:47976:1"/>
+            <pb facs="tcp:47976:1"/>
+            <p>ANIMADVERSIONS ON Mr. Congreve's LATE ANSWER TO Mr. <hi>COLLIER,</hi> &amp;c.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:47976:2"/>
+            <pb facs="tcp:47976:2"/>
+            <p>ANIMADVERSIONS ON Mr. Congreve's LATE ANSWER TO Mr. <hi>COLLIER.</hi> IN A DIALOGUE between Mr. <hi>Smith</hi> and Mr. <hi>Johnſon.</hi>
+            </p>
+            <p>With the Characters of the preſent <hi>POETS;</hi> And ſome Offers towards New-Modeling the <hi>STAGE.</hi>
+            </p>
+            <sp>
+               <speaker>Sr. <hi>Joſ.</hi>
+               </speaker>
+               <p>Egad, there are good Morals to be pick'd out of <hi>Aeſop's Fables,</hi> let me tell you that, and <hi>Reynard the Fox</hi> too.</p>
+            </sp>
+            <sp>
+               <speaker>Bluff.</speaker>
+               <p>Damn your Morals.</p>
+            </sp>
+            <sp>
+               <speaker>Sr. <hi>Joſ.</hi>
+               </speaker>
+               <p>Prithee don't ſpeak ſo Loud.</p>
+            </sp>
+            <sp>
+               <speaker>Bluff.</speaker>
+               <p>Damn your Morals, I muſt revenge the Affront done to my Honor.</p>
+            </sp>
+            <bibl>
+               <hi>Old Batch.</hi> Page <hi>47.</hi>
+            </bibl>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Nutt,</hi> near <hi>Stationers-Hall.</hi> 1698.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:47976:3"/>
+            <pb facs="tcp:47976:3"/>
+            <head>TO THE INGENIOUS Mr. —.</head>
+            <lg>
+               <l>O Could I write like <hi>D—s</hi> ſternly loud,</l>
+               <l>That <hi>Ixion</hi> Author, in his Fancy proud</l>
+               <l>To chaſe a Goddeſs,— but embrace a Cloud.</l>
+               <l>With ſtretch'd out Wings on ſuch Purſuits he ſoars,</l>
+               <l>Preſſes the Cloud, and then the Thunder roars.</l>
+               <l>Loſt in a Fog, he ſucks Infection there:</l>
+               <l>The very <hi>uglieſt Daemon</hi> of the Air;</l>
+               <pb facs="tcp:47976:4"/>
+               <l>On whoſe foul Aſpect ſhould you ſagely look,</l>
+               <l>You can't but fancy that he's Thunder-ſtruck.</l>
+               <l>Such heavy Dulneſs dwells upon his Face,</l>
+               <l>You read him much a Critick,—more an A—.</l>
+            </lg>
+            <lg>
+               <l>Or could I run in <hi>Hop—s</hi> thundring ſtrain,</l>
+               <l>He who the <hi>Triumphs</hi> Sung of Peaceful Reign:</l>
+               <l>In noiſy roar of Numbers to excell,</l>
+               <l>And gain to Kiſs that Hand which fought ſo well.</l>
+               <l>He who had <hi>ev'ry Muſe,</hi>—and yet had none;</l>
+               <l>With all his Grand-Sire's nonſenſe added to his own.</l>
+            </lg>
+            <lg>
+               <l>Or could I write like the two Female things</l>
+               <l>With <hi>Muſe Pen-feather'd,</hi> guiltleſs yet of Wings;</l>
+               <l>And yet, it ſtrives to Fly, and thinks it Sings.</l>
+               <l>Juſt like the Dames themſelves, who flant in Town,</l>
+               <l>And flutter looſely, but to tumble down.</l>
+               <pb facs="tcp:47976:4"/>
+               <l>The laſt that writ, of theſe preſuming two,</l>
+               <l>(For that <hi>Queen Ca—ne</hi> is no Play 'tis true)</l>
+               <l>And yet to Spell is more than ſhe can do,</l>
+               <l>Told a High Princeſs, ſhe from Men had torn</l>
+               <l>Thoſe <hi>Bays,</hi> which they had long engroſs'd and worn.</l>
+               <l>But when ſhe offers at our Sex thus Fair,</l>
+               <l>With four fine Copies to her Play,—O rare!</l>
+               <l>If ſhe feels Manhood ſhoot—'tis I know where.</l>
+               <l>Let them ſcrawl on, and Loll, and Wiſh at caſe,</l>
+               <l>(A Feather oft does Woman's Fancy pleaſe.)</l>
+               <l>Till by their Muſe (more jilt than they) accurſt,</l>
+               <l>We know (if poſſible) which writes the worſt.</l>
+               <l>Beneath theſe Pictures, ſure there needs no name,</l>
+               <l>Nor will I e what they ne'er got in Fame.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:47976:5"/>
+               <l>Renown'd like <hi>D—y,</hi> for his written Chat</l>
+               <l>Of <hi>Quixots,</hi> Monkys, and we know not what.</l>
+               <l>Light in repute with all the Sacred Throng.</l>
+               <l>Unleſs for <hi>heavy Burthen in a Song.</hi>
+               </l>
+               <l>With ſtutt'ring Muſe, and Self, he Sings,—or ſays</l>
+               <l>He writes things ſometimes, but his laſt were Plays.</l>
+            </lg>
+            <lg>
+               <l>Next ſtruts in <hi>Foppington</hi> of high Renown,</l>
+               <l>Call'd the <hi>Beau-writer</hi> by the Sparkiſh Town;</l>
+               <l>But him for all his Failings, I'll Excuſe,</l>
+               <l>He makes fair promiſes to quit his Muſe:</l>
+               <l>Yet here's the Danger, a <hi>Relapſe</hi> before,</l>
+               <l>Shews that the ſcurvy Sickneſs is not o'er;</l>
+               <l>And drunken Men who know not what they do,</l>
+               <l>Reel firſt on one ſide, then on 'tother too.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:47976:5"/>
+               <l>Next, let the needy <hi>Gil—n</hi> peep abroad,</l>
+               <l>Without a Muſe, but more without a God.</l>
+               <l>The firſt he claims, the latter's only Nam'd</l>
+               <l>In idle Talk,—ſo to be doubly Damn'd.</l>
+               <l>Of all our throng of Wits and Men of Parts,</l>
+               <l>'Tis certain he has had his full Deſerts,</l>
+               <l>In a late Book, where of moſt Plays he treats,</l>
+               <l>Of his dear ſelf who knows what he Repeats?</l>
+               <l>He tells you how his Beads were from him thrown,</l>
+               <l>Then what Religion has he now? Why none.</l>
+            </lg>
+            <lg>
+               <l>Equal to him in Poetry and Fame,</l>
+               <l>Comes one who both has got, and loſt a Name.</l>
+               <pb facs="tcp:47976:6"/>
+               <l>
+                  <hi>Se—le,</hi> who, when he gain'd a faint applauſe,</l>
+               <l>Play'd a Juſt <hi>V—n,</hi> ſhew'd us what he was.</l>
+               <l>He yields, no doubt, Great—! ſoon to you,</l>
+               <l>We know, his recantations are not new.</l>
+               <l>But he, 'tis fear'd is fond of <hi>Gil—n</hi>'s Curſe,</l>
+               <l>Eager of change, tho' ſtill from bad to worſe.</l>
+               <l>Yet thou haſt flaſh'd ſuch rays of Sacred Light,</l>
+               <l>Sure, their dark Souls, for once, might find the right.</l>
+               <l>Next in deſert ſtands one, a Man of Wit,</l>
+               <l>Made ſo by what he ſtole, not what he writ.</l>
+               <l>But ſhould each Bird pluck from this Crow his own.</l>
+               <l>His Plumes would all be loſt, and he undone.</l>
+               <l>In ſome Years ſpace, Play drops from thieving <hi>Muſe,</hi>
+               </l>
+               <l>So long a time ſhe takes to pick, and chooſe.</l>
+               <pb facs="tcp:47976:6"/>
+               <l>Thus while he bears his burthens from the reſt,</l>
+               <l>His Title's but <hi>The Aſs of Wit,</hi> at Beſt.</l>
+               <l>Yet we may gueſs this Malefactor's end.</l>
+               <l>Tho' the old J—H—be now his Friend.</l>
+            </lg>
+            <lg>
+               <l>Inferior ev'n to theſe, <hi>Mot—x</hi> appear,</l>
+               <l>Do thou the laſt in Wit, bring up the Rear.</l>
+               <l>Let the next piece you write, to Damn the Pit,</l>
+               <l>Be call'd not <hi>Beauty in Diſtreſs,</hi> but <hi>Wit.</hi>
+               </l>
+               <l>Poor ev'ry way, in Poetry and Pence,</l>
+               <l>Keep your Advice, and write, to ſhew your Senſe.</l>
+               <l>And if you can't do better for your Heart,</l>
+               <l>
+                  <hi>Think not</hi> our <hi>Charity your own Deſert.</hi>
+               </l>
+               <l>But be as conſcious ſtill, you want a prop,</l>
+               <l>As when both Prieſt and Poet bore you up.</l>
+               <pb facs="tcp:47976:7"/>
+               <l>On each ſide one, but now as Matters ſtand,</l>
+               <l>I wonder which took place, and dear Right-hand.</l>
+            </lg>
+            <lg>
+               <l>The Prieſt, no doubt; for <hi>Dr—en</hi> Pious grown,</l>
+               <l>Throws down his Arms and yields to you alone.</l>
+               <l>Triumphant—! o'er thy Vanquiſh'd Foes,</l>
+               <l>As ſuch, I wiſh not now to write like thoſe.</l>
+               <l>If 'e'er too high my rais'd Ambition flew,</l>
+               <l>It was, like thee, to Write and Conquer too.</l>
+            </lg>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:47976:7"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>C<g ref="char:V">Ʋ</g>ſtom has made it requi<g ref="char:EOLhyphen"/>ſite, that every body that Writes, ſhould have ſome<g ref="char:EOLhyphen"/>thing call'd a <hi>Preface</hi> prefix'd
+<pb facs="tcp:47976:8"/>to his <g ref="char:V">Ʋ</g>ndertaking; but 'tis here, as in writing Private Letters, a Man has always the hardeſt Task, when he has no Buſineſs; ſo I have little elſe incumbent on me, but to let all my loving Friends in Town know, that I am very Well, <hi>and all that,</hi> as Mr. <hi>Bays</hi> ſays.</p>
+            <p>As for News, (now you may ſuppoſe me writing to a Country Friend) Dear ſuch a one,</p>
+            <p>Becauſe I have none elſe to tell you; Mr. <hi>Congreve</hi> has ſet out a Book in Vin<g ref="char:EOLhyphen"/>dication
+<pb facs="tcp:47976:8"/>of his Plays from Mr. <hi>Collier's.</hi> Moſt of the other Scribling Sparks o'th Town, have diſcharg'd their little Artillery and their Spleen as well as he, but not one Breach have they made yet in Mr. <hi>Collier</hi>'s Baſtions; they are too well Lin'd againſt the diſorderly Fire of ſuch Poppers. And I am told, he will very ſoon make a Sally, which I am poſitive, will raiſe their Siege, and open for himſelf a vaſt Field to Triumph in, who even in his Walls was Conqueror.</p>
+            <pb facs="tcp:47976:9"/>
+            <p> Being very Idle, I made bold to ſeize the Reins of your Friend <hi>Will's</hi> Proſe <hi>Pegaſus,</hi> (and yet his moſt fiery Poetick Steed is no better) to make my Re<g ref="char:EOLhyphen"/>marks a little how he foam'd, and champ'd upon his Bit; and tho' he was a <hi>Guift Horſe to the World</hi> this bout (for I think no body bought him) I preſum'd to <hi>look him in the Mouth.</hi> He had many Faults, I ſound as I View'd him; very Head<g ref="char:EOLhyphen"/>ſtrong; when Spurr'd, apt neither to run, nor Pace,
+<pb facs="tcp:47976:9"/>but Kick and Fling, or at beſt, fall into a hard un<g ref="char:EOLhyphen"/>couth, unſufferable Trot. I obſerv'd him from Head to Tail, he was both Crop'd and Bob'd. He was ſo untoward, he had given his Rider (while he pretended to ſhew him) ſeveral Falls, and ſo I thought fit to take hold of him.</p>
+            <p>This is all the Account I think neceſſary to be gi<g ref="char:EOLhyphen"/>ven of my Pebble-ſtone at<g ref="char:EOLhyphen"/>tempt upon the very Front of this <hi>Goliah;</hi> one, who braves Heaven as much as
+<pb facs="tcp:47976:10"/>the former did, even in his moſt Modeſt and Innocent Play as he calls it. I'll give you an Inſtance or two.—</p>
+            <q>
+               <sp>
+                  <speaker>Alm.</speaker>
+                  <l>—<hi>How I have Mourn'd and Pray'd,</hi>
+                     <note place="margin">Mourning Bride, <hi>P.</hi> 20.</note>
+                  </l>
+                  <l>
+                     <hi>For I have Pray'd to thee as to a Saint;</hi>
+                  </l>
+               </sp>
+            </q>
+            <p>A <hi>Roman-Catholick</hi> no doubt, but on—
+<q>
+                  <l>
+                     <hi>And thou haſt hear'd my Prayer, for thou art come</hi>
+                  </l>
+                  <l>
+                     <hi>To my Diſtreſs, to my Deſpair, which Heav'n</hi>
+                  </l>
+                  <l>
+                     <hi>Without thee cannot Cure.</hi>
+                  </l>
+               </q>
+            </p>
+            <pb facs="tcp:47976:10"/>
+            <p> This is Superfine, for cer<g ref="char:EOLhyphen"/>tain; But I find here was a Cure to be perform'd in the the buſineſs, and Heaven we muſt ſuppoſe, could not have apply'd it to the Wounded part, till the <hi>Poet</hi> had ſpread out <hi>Ozmyn</hi> as a Plaiſter to be laid upon her—even ſo, for here again he ſays—
+<q>
+                  <sp>
+                     <speaker>Ozmyn.</speaker>
+                     <l>
+                        <hi>Thou art my Wife—nay,
+<note place="margin">Page 35</note> thou art yet my Bride!</hi>
+                     </l>
+                     <l>
+                        <hi>The ſacred Union of Connubial Love</hi>
+                     </l>
+                     <l>
+                        <hi>Yet unaccompliſh'd; his Myſterious Rites</hi>
+                     </l>
+                     <l>
+                        <hi>Delay'd—</hi>
+                     </l>
+                     <pb facs="tcp:47976:11"/>
+                     <l>
+                        <hi>Is this dark Cell, a Temple for the God?</hi>
+                     </l>
+                     <l>
+                        <hi>Or this vile Earth an Altar for ſuch Offerings?</hi>
+                     </l>
+                  </sp>
+               </q>
+            </p>
+            <p>'Tis pretty plain, he want<g ref="char:EOLhyphen"/>ed to be doing: And, ſince Mr. <hi>Congreve</hi> left them in the Dark, no doubt, but they grop'd out one anothers Meaning, and he found an Altar for his Offerings.</p>
+            <p>Now,
+<note place="margin">Old Batch. <hi>Pag.</hi> 46.</note> 
+               <hi>If you can be as Grave as a Biſhop, when he hears Venereal Cauſes in the Spiritual Court,</hi> you ſhall have more on't in the next Page—</p>
+            <q>
+               <pb facs="tcp:47976:11"/>
+               <sp>
+                  <speaker>Ozmyn.</speaker>
+                  <l>
+                     <hi>Then</hi> Garcia <hi>ſhall ly Panting on thy Boſom,</hi>
+                  </l>
+                  <l>
+                     <hi>Luxurious, Revelling amidſt thy Charms,</hi>
+                  </l>
+                  <l>
+                     <hi>And thou perforce muſt yield and Aid his Tranſports.</hi>
+                  </l>
+               </sp>
+            </q>
+            <p>This is <hi>luxuriouſly</hi> Mo<g ref="char:EOLhyphen"/>deſt, on my Word. I won<g ref="char:EOLhyphen"/>der who <hi>yielded</hi> to <hi>Aid</hi> Mr. <hi>Congreve's Tranſports</hi> when writ this: He muſt certain<g ref="char:EOLhyphen"/>ly have beheld ſeveral beau<g ref="char:EOLhyphen"/>tiful <hi>Idea</hi>'s of Luſt, to draw this Picture of Obſcenity by, as well as the other Painter had, who drew his <hi>Luſcious Venus.</hi>
+            </p>
+            <pb facs="tcp:47976:12"/>
+            <p> Now for another touch of Prophaneneſs—
+<q>
+                  <sp>
+                     <speaker>Alm.</speaker>
+                     <l>
+                        <hi>'Tis more than Recompence to ſee thy Face;</hi>
+                     </l>
+                     <l>
+                        <hi>If Heaven is greater Joy, it is no Hap<g ref="char:EOLhyphen"/>pineſs,</hi>
+                     </l>
+                     <l>
+                        <hi>For 'tis not to be born.</hi>—</l>
+                  </sp>
+               </q>
+            </p>
+            <p>If that be Mr. <hi>Congreve</hi>'s Opinion, he need not covet to go to Heaven at all, but to ſtay and Ogle his Dear <hi>Bra<g ref="char:EOLhyphen"/>cilla,</hi> with ſneaking looks un<g ref="char:EOLhyphen"/>der his Ha, in the little ſide Box.</p>
+            <p>One more, and then I have done; tis a moſt rampant one.</p>
+            <q>
+               <pb facs="tcp:47976:12"/>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>
+                     <hi>Better for him to tempt the Rage of Heaven,</hi>
+                     <note place="margin">Page 26.</note>
+                  </l>
+                  <l>
+                     <hi>And wrench the Bolt red hiſſing from the hand</hi>
+                  </l>
+                  <l>
+                     <hi>Of him that Thunders, than but think that Inſolence.</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis daring for a God</hi>—</l>
+               </sp>
+            </q>
+            <p>Now, he might have made ſomething of this with a lit<g ref="char:EOLhyphen"/>tle Paraphraſe, and avoided the Prophanity too, as thus—
+<q>
+                  <l>
+                     <hi>Better for him to tempt the Tavern's Fury,</hi>
+                  </l>
+                  <l>
+                     <hi>In the full Face of a</hi> Preſenting Jury.</l>
+                  <pb facs="tcp:47976:13"/>
+                  <l>
+                     <hi>Snatch the brisk Glaſs red ſparkling from the hand</hi>
+                  </l>
+                  <l>
+                     <hi>Of him that draws it</hi>—</l>
+                  <sp>
+                     <speaker>Comment.</speaker>
+                     <l>
+                        <hi>Drawer underſtand.</hi>
+                     </l>
+                     <l>
+                        <hi>Than but to think to thruſt out Snout like Hog.</hi>
+                     </l>
+                     <l>
+                        <hi>Or Bark, or ſo— 'tis daring for a Dog.</hi>
+                     </l>
+                  </sp>
+               </q>
+            </p>
+            <p>Pray now, as not our Poet a very inſolent <hi>Capane<g ref="char:EOLhyphen"/>us,</hi> to Brave a true <hi>Jove,</hi> and real Thunderer? But 'tis my Opinion, that he who ſhews no Morality to Men, can't ſhew any Religion to a God.</p>
+            <pb facs="tcp:47976:13"/>
+            <p> As an Inſtance of his un<g ref="char:EOLhyphen"/>Gentile Principles; One Mr. <hi>P</hi>—ſhew'd him his <hi>Play,</hi> he approv'd on't, and tho' perhaps it deſerv'd its Fate, yet 'tis very well known who it was, that by his Intereſt of Voices caus'd it to be damn'd. I in<g ref="char:EOLhyphen"/>ſtance this Gentleman particu<g ref="char:EOLhyphen"/>larly, becauſe, his falſe Friend fail'd in all his other attempts of the like good Office.</p>
+            <p>However, this Gentile<g ref="char:EOLhyphen"/>man's Countrymen are not much oblig'd to him; for he is pleas'd (where he confeſſes his Demerits) to ſay <hi>he hopes the Faults are to be Excus'd
+<pb facs="tcp:47976:14"/>in a young Writer, and e<g ref="char:EOLhyphen"/>ſpecially a Man of</hi> Ireland. None I think, but the Au<g ref="char:EOLhyphen"/>thor of <hi>ſuch a Play,</hi> would have writ <hi>ſuch a thing;</hi> I reſent it, for perhaps I have the misfortune to have been born in <hi>Ireland,</hi> and to own it too. However, I think <hi>Mr. Congreve</hi> would have done well to have made the like Excuſe (in ſpight of <hi>Staf<g ref="char:EOLhyphen"/>fordſhire</hi>) for his Poetry.</p>
+            <p>But a word or two of the following Pages. Some per<g ref="char:EOLhyphen"/>haps will ſay, that they are too Light and Airy; that
+<pb facs="tcp:47976:14"/>they have not all that Solidity in them which is requir'd in an Anſwer: But the Title Page is (I think) a ſufficient Reply to this Objection; for the Word <hi>Animadverſions,</hi> ſig<g ref="char:EOLhyphen"/>nifies only looſe Thoughts, and not a ſet and ſtudied Diſcourſe: Nor will the Method they are writ in, (which is Dialogue<g ref="char:EOLhyphen"/>ways) permit of any other than a free, eaſie and light way of Writing. However, if there are ſtill ſome Carpers, who won't be ſatisfied with this, but wou'd have had a more ſolid and elaborate Reply to our Friend's Pamphlet, I
+<pb facs="tcp:47976:15"/>ſhall only ſay, That I think it does not deſerve it.</p>
+            <p>Others perhaps may fancy that I have been too Severe upon Mr. <hi>Congreve;</hi> but I ſhall only deſire theſe Gentle<g ref="char:EOLhyphen"/>men to take a ſlight View of his Book, and I dare engage they'll ſoon be of another Opi<g ref="char:EOLhyphen"/>nion. They'll find his Pages fuller of Malice than right Reaſoning, and inſtead of be<g ref="char:EOLhyphen"/>ing ſtor'd with Senſe, black<g ref="char:EOLhyphen"/>en'd with Gall and Spleen. His way of Anſwering Mr. <hi>Collier,</hi> is with Satyr and Reflection; and ſince he has
+<pb facs="tcp:47976:15"/>ſet the <hi>Copy,</hi> he can't take it ill if he is Imitated, eſpeci<g ref="char:EOLhyphen"/>ally when he ſees we have obſerv'd our Diſtance, and not preſum'd to cope with him in his <hi>Maſter-piece.</hi>
+            </p>
+            <p>For we are all aſſur'd his Prophetick Truth's now ful<g ref="char:EOLhyphen"/>fil'd, <hi>viz.</hi>
+               <q>
+                  <l>
+                     <hi>Not But the Man has Malice, wou'd he ſhow it;</hi>
+                     <note place="margin">Prologue to the <hi>Old Batch.</hi>
+                     </note>
+                  </l>
+                  <l>
+                     <hi>But on my Conſcience, he's a baſhful Poet:</hi>
+                  </l>
+                  <l>
+                     <hi>You think that ſtrange,— no matter— he'll out-grow it.</hi>
+                  </l>
+               </q>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="animadversions">
+            <pb facs="tcp:47976:16"/>
+            <pb n="1" facs="tcp:47976:16"/>
+            <head>ANIMADVERSIONS ON Mr. Congreve's LATE ANSWER TO Mr. <hi>COLLIER,</hi> &amp;c.</head>
+            <sp>
+               <speaker>Mr. <hi>Johnſon.</hi>
+               </speaker>
+               <p>COme, Mr. <hi>Smith,</hi> ſit down.— bring a Flask Boy, let Wit and Wine flow together; here's <hi>Congreve, Congreve;</hi> here's the Man o'th' World,
+<note place="margin">Old Batch.</note> 
+                  <hi>the Wittol of Wittol-Hall, Gads daggers, Belts!
+<pb n="2" facs="tcp:47976:17"/>and Scabbards! come and Embrace my Bully, my Back, this Pen of his I'll maintain to be the beſt Divine, Anatomiſt, Lawyer, or Ca<g ref="char:EOLhyphen"/>ſuiſt in</hi> Europe; <hi>it ſhall decide a Controverſie or ſplit a Cauſe</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>
+                  <hi>Nay, now I muſt ſpeak, it will ſplit a Hair, by the Lord</hi> Harry, <hi>I have ſeen it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>
+                  <hi>Oh, now I kiſs your Hilts Sir, you are floating upon the full blown Bladders of Repentance, to ſwim once more into his Favour. O Gad! I have a great paſſion for</hi> Congreve, <hi>don't you admire him? Ah! he's ſo fine, ſo extreamly Fine, ſo every thing in the World that I like.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Cowley <hi>I believe you mean.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Johnſon.</speaker>
+               <p>No, no; <hi>our Engliſh Horace</hi> I mean: Cowley <hi>was a very pretty Fellow, but let me tell you,
+<pb n="3" facs="tcp:47976:17"/>Compariſons are odious;</hi> Cowley <hi>was a very pretty Fellow in thoſe days it muſt be granted; but alas, Sir, were he now Alive, he'd be nothing, nothing in the Earth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith</speaker>
+               <p>
+                  <hi>How Sir! I make a doubt if there be ſo great a Poet breathing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Johnſon.</speaker>
+               <p>O Lard! <hi>Will Con<g ref="char:EOLhyphen"/>greve</hi>'s alive Man, he's my Coun<g ref="char:EOLhyphen"/>tryman, he has been regenerated ever ſince he turn'd Poet, and his <hi>Muſe</hi> has had a new <hi>Birth</hi> too ſince the Peace.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>What Miracle has made him a <hi>Staſſordſhire Man,</hi> I know not, but I'm ſure his <hi>Muſe,</hi> for all his fine Flights, is but a <hi>Bog<g ref="char:EOLhyphen"/>trotter ſtill.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>Fie, Fie, I don't like that <hi>(ſtill)</hi> 'tis no good word, <hi>vide Congreve,</hi> pag. 47.</p>
+               <pb n="4" facs="tcp:47976:18"/>
+               <p> But why ſo ſever upon your Friend, the Courteous the obli<g ref="char:EOLhyphen"/>ging Mr. <hi>Congreve? the very Pink of Courteſie;</hi>
+                  <note place="margin">Love for Love.</note> nay, <hi>the very re<g ref="char:EOLhyphen"/>flection of Heaven in a Pond.</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>
+                  <hi>Ay, ay, but he that leaps at him, is loſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No, you miſtake him, he's all <hi>Love for Love,</hi> not on jot of the <hi>Double Dealer;</hi> come, come, <hi>ediſie, and chew the cud of <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding; here's Paper Diet that will make you Fat,</hi> here's <hi>Congreve</hi> againſt <hi>Collier</hi> Man, you ſhall ſee how he mauls him, Egad, he does not yield the Parſon a Tythe of his Citations, <hi>For why ſhould a Blockhead have one in Ten?</hi> You know the Song, Friend. Here, hand <hi>Willy with the Wiſp</hi> hither to me; ſo— arm'd with this Book and this Flask, I ſtand like <hi>Jove,</hi> with my Thunder and
+<pb n="5" facs="tcp:47976:18"/>Lightning: Ha, Boy, here's <hi>Bac<g ref="char:EOLhyphen"/>chus</hi> and <hi>Apollo Virorum</hi> for you; come, Pledge me: By the Muſes, tho' this Helicon of Wit will pleaſe you better than that of Wine, come, bleſs your ſelf, and I'll open the Book.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Conjure up Parſon <hi>Say<g ref="char:EOLhyphen"/>grace,</hi> to crave a Bleſſing, no doubt, Mr. <hi>Collier</hi> will give Thanks after Meat.</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>Stay, cut open theſe two Leaves, <hi>and I'll tell you,</hi> (O pox! this will diſcover, (Damn the Bookſeller) my partiality in com<g ref="char:EOLhyphen"/>mending before I read it) <hi>very well—ſo, thank you, my Dear, — but as I was telling you— piſh, this is the untoward'ſt Leaf —ſo, as I was telling you— how d'ye like it now?</hi>
+               </p>
+               <p>
+                  <hi>Hideous—ha, frightful ſtill, or how?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:47976:19"/>
+               <speaker>Smith.</speaker>
+               <p>O no, Sir, <hi>'tis very well as can be.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>
+                  <hi>And ſo— but where did I leave off, my Dear,</hi> I <hi>was telling you—</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>
+                  <hi>You were about to tell me ſomething, but you left off before you began;</hi> I am afraid your Friend Mr. <hi>Congreve</hi> does ſo too; come, we'll ſee in the Title Page here what 'tis he drives at; <hi>Amend<g ref="char:EOLhyphen"/>ments of the Citations from the Old Batchelor, Double-Dealer, Love for Love, Mourning Bride.— By the Author of thoſe Plays.</hi> Who alone in the name of Wonder, can this be? Did you not tell me this was Mr. <hi>Congreve</hi>'s Book? I hope you will not make me believe theſe four Plays were Mr. <hi>Congreve</hi>'s.</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>Whoſe are they then? <hi>Cujus pecus?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:47976:19"/>
+               <speaker>Smith.</speaker>
+               <p>
+                  <hi>Non Meleboei</hi>—. You know what <hi>Hartwell</hi> ſays, this Brat's <hi>mighty like his Grace, has juſt his Smile and Air of's Face, has ſuch a one's Noſe and Eyes, and Mr. What de call's Mouth to a tittle.</hi> In ſhort, thoſe Plays <hi>are little Compounds of the whole Body of Scriblers:</hi> Nay, even <hi>Tom. Du—y</hi> has not been proof againſt his Stealths, and I would have him reflect Mr. <hi>Congreve</hi>'s Motto upon him, <hi>viz.</hi>
+               </p>
+               <q>
+                  <l>
+                     <hi>Thoſe pretty things Friend</hi> Congreve <hi>you rehearſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Were once my Words, tho' they are now your Verſe.</hi>
+                  </l>
+               </q>
+               <p>Well, now to page 1. here he ſays, <hi>Some would think him idle if he labour'd for an Anſwer to Mr.</hi> Collier; intimating, that Mr. <hi>Col<g ref="char:EOLhyphen"/>lier</hi>
+                  <pb n="8" facs="tcp:47976:20"/>would upon his own Evi<g ref="char:EOLhyphen"/>dence be Condemn'd, and he Ac<g ref="char:EOLhyphen"/>quitted before he could make his Defence,— and pray why ſo? all the World are not <hi>Stafford<g ref="char:EOLhyphen"/>ſhire</hi> Men, and 'twill be no eaſie Task to make them ſo.</p>
+               <p>But to agree with him, if he were acquitted at all, it muſt have been before he offered at his Defence; for he has made ſo mean and wretched a buſineſs of it, that he is now Caſt in the Opinion of the World: He has ſaid nothing that can hinder Sentence from being paſt upon him, even in the Opinion of his bigotted Friends.</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>Well, but peruſe him from page 2. to 7.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes, I ſee he very dully Aſperſes Mr. <hi>Collier</hi> all the way; and at the end, to cloſe the <hi>Cli<g ref="char:EOLhyphen"/>max</hi>
+                  <pb n="9" facs="tcp:47976:20"/>of the Abuſe, he calls him Mr. <hi>Collier.</hi> Now 'tis my Opi<g ref="char:EOLhyphen"/>nion, that Mr. <hi>Collier</hi> knows him<g ref="char:EOLhyphen"/>ſelf very well, and needs not that Advice which may juſtly be gi<g ref="char:EOLhyphen"/>ven to Mr. <hi>Congreve.</hi>
+               </p>
+               <q>
+                  <hi>Ne te quoeſiveris extra.</hi>
+               </q>
+               <p>For indeed he is <hi>Tantum mutatus ab illo,</hi> that he ſeems to be no more his Father's Offspring, than the Plays he owns are his.</p>
+               <p>
+                  <hi>Before I proceed, for Method ſake, I muſt premiſe ſome few things,
+<note place="margin">
+                        <hi>V. Cong.</hi> p. 7.</note> which if you think in your Conſci<g ref="char:EOLhyphen"/>ence too much to be granted me, I deſire you to proceed no further, but you may return to Mr.</hi> Congreve's <hi>Book a lone,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:47976:21"/>
+               <speaker>Johnſ.</speaker>
+               <p>Well, go on, you'll come to <hi>Greek</hi> preſently, 'tis very Witty I believe, but I can't read it,—</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> I wonder Mr. <hi>Congreve</hi> has not inſtructed his Friends in the meaning of that; why, it relates to all kinds of Vice; O yes, here 'tis Conſtru'd, look here Mr. <hi>Johnſon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>Well what think you now of his four <hi>Poſtulata's?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why, he plays a ſure Card, he's at all-Fours with Mr. <hi>Collier</hi> I think, Higheſt, Loweſt—</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>Jack and the Game boy, —ay, ay, he ſteers a right courſe, he can give him a Broad-ſide, let the Winds blow how they will.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Ay, right, but <hi>he ſends his Wits for a Venture,</hi> and I fear they will be plaguily Weather<g ref="char:EOLhyphen"/>beaten before they come home;
+<pb n="11" facs="tcp:47976:21"/>here he is run a-ground alrea<g ref="char:EOLhyphen"/>dy, I ſee, and beats upon the Sands, and for fear of being made Prize, has ſet out falſe Colours, <hi>viz.</hi> His third <hi>Poſtulatum,</hi> where he deſires Mr. <hi>Collier</hi>'s Citations may be abſolutely thought falſe, that is, may appear in Mr. <hi>Con<g ref="char:EOLhyphen"/>greve</hi>'s own Colours: Now his Anſwering Mr. <hi>Collier,</hi> muſt cer<g ref="char:EOLhyphen"/>tainly be ridiculouſly vain, if this is granted; for any Man, to clear the Aſperſion of being Scabby, need only expoſe his Hands, and turn up his Back-ſide, to prove his Cleanneſs. But he's Affronted I ſuppoſe to be turn'd up by Mr. <hi>Collier,</hi> becauſe taking him una<g ref="char:EOLhyphen"/>wares, the dirty Linnen appears in view.</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>Hold, hold, good Friend, you laſh too hard; <hi>our Jehu</hi> too will turn <hi>Hackney-Coachman</hi> I fear.
+<pb n="12" facs="tcp:47976:22"/>If my Friend has been in fault, and is taken up to be Whip'd, and has nothing elſe to ſay; he piouſly crys out, <hi>Jeſu,</hi> and like other good Natur'd Boys, pro<g ref="char:EOLhyphen"/>miſes never to do't again.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>But if he has ſtill the itch to ſteal and publiſh on, and ſcan other Men's Proſe on his own Unpoetical Fingers, he does it ſo roughly, they muſt needs break out to Soreneſs.</p>
+               <q>
+                  <hi>Et vivos roderet ungues,</hi> &amp;c.</q>
+               <p>For Example, I'll repeat you one or two of his ſmooth Lines.</p>
+               <q>
+                  <hi>For Love's Iſland:
+<note place="margin">Old Batch. p. 8.</note> I for the Gol<g ref="char:EOLhyphen"/>den Coaſt.</hi>
+               </q>
+               <pb n="13" facs="tcp:47976:22"/>
+               <p> Now if you can get a Shore on that Iſland without being plaguily out of Breath, I'll be bound to find out the Golden Coaſt for Mr. <hi>Congreve.</hi>
+               </p>
+               <q>
+                  <hi>Let's have a fair Trial, and a clear Sea.</hi>
+                  <note place="margin">Prol. to Double Dealen.</note>
+               </q>
+               <p>There's a Line for you, that has ſayl'd it ſelf into a clear Sea of Proſe.</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>No indeed, 'tis a Verſe, I'm ſure, for it Rhymes to three lines going before.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>O then the Rhyme does the buſineſs, or elſe <hi>I'gad let me tell you Mr.</hi> Congreve<hi>'s ſtanding Ar<g ref="char:EOLhyphen"/>gument is depreſs'd in dumb ſhew:</hi> If this Claim won't paſs in the Court of <hi>Parnaſſus,</hi> I'm afraid we ſhall ſee him expell'd the Land at the next Viſitation of <hi>Apollo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:47976:23"/>
+               <speaker>Johnſ.</speaker>
+               <p>Come read on, 'tis migh<g ref="char:EOLhyphen"/>ty fine I think, and as my dear Friend <hi>Setter</hi> ſays,
+<note place="margin">Old Batc. p. 47.</note> 
+                  <hi>my Head runs on nothing elſe, nor can I talk of nothing elſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>That <hi>(Nor)</hi> makes it excellent Engliſh—<hi>nor Du—y nor M—ux</hi> themſelves, <hi>nor</hi> the inſufferable Dullneſs of <hi>P—x, nor</hi> the Lightneſs both in Head and Tail of the preſuming <hi>T—r,</hi> could have brought in <hi>Nor</hi> more elegantly.</p>
+               <p>Well, as to his fourth <hi>Poſtula<g ref="char:EOLhyphen"/>tum,</hi> we'll ſee what he ſays there, I'll paſs his two firſt, for he may have half-way given him in his Race, and be eaſily run down too. To ſhew himſelf a Man of Letters, he talks of the Alphabet here in the fourth place, and ſays, that tho' he claps a Scrip<g ref="char:EOLhyphen"/>ture Sentence into the Mouths
+<pb n="15" facs="tcp:47976:23"/>of Perſons in a Play (which, by the by, may be Bawds or Whores) 'tis allowable, becauſe the ſame Letters are requiſite to the ſpel<g ref="char:EOLhyphen"/>ling of all Words whatever. Here Mr. <hi>Congreve</hi> ſeems not to underſtand his <hi>A. B. C.</hi> for tho' the Bread and Wine may be re<g ref="char:EOLhyphen"/>ceived in the Church before the Altar, yet 'tis not to be offered in a Play-Houſe, or any other place of Sport, much leſs be ſwal<g ref="char:EOLhyphen"/>low'd by ſuch whoſe touch would Pollute it; for once Conſecrated, it immediately ceaſes to be com<g ref="char:EOLhyphen"/>mon.</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>Nay, if you won't allow him his Heads, the Body of his Diſcourſe is ruin'd.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>His Heads? why I can find neither Head nor Tail in't for my part, 'tis a beaſtly ſort of a Monſter that crawls on all <hi>Four;</hi>
+                  <pb n="16" facs="tcp:47976:24"/>and only licks the Duſt, which it ſelf raiſes.</p>
+               <p>In his 13th. page, he ſays, he has written but four poor Plays, here indeed the Man were modeſt, had he not ſaid <hi>Written.</hi> Well, four Plays; in how many Years? A<g ref="char:EOLhyphen"/>bout eight; does he not hammer out his <hi>Minerva</hi>'s?</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>Why; 'tis neceſſary a good Play ſhould be a twelve Month or two a Writing; but go on with the Book, come turn over a new Leaf and don't rail.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Well; in the next page Mr. <hi>Collier,</hi> he ſays, is in the right, and he agrees with him, and immediately after he ſays he does not underſtand him, and can make no anſwer to him.</p>
+               <p>He Juggles finely it ſeems, ſometimes there is ſomething in
+<pb n="17" facs="tcp:47976:24"/>his Cups, and then whip it's gone again. The Gentleman under<g ref="char:EOLhyphen"/>ſtands <hi>Legerdemain</hi> ſure.</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>I know not what you'd be at. Sir, with your Jugling, and your Cups, pray, what do you mean?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why, I believe your Friend <hi>Will</hi> was in his Cups when he wrote this <hi>P.</hi> 15. He makes a great ſplutter about big Whores, and becauſe there are three of them that are of the big<g ref="char:EOLhyphen"/>geſt, and but four in all, he would put them upon Mr. <hi>Collier;</hi> nay, ſure they'll be reconcil'd ſoon, now he parts with his Whores; but hold, I ſee 'tis out of a ſly de<g ref="char:EOLhyphen"/>ſign, he has made them Whores, and now would put them on him; a cunning Shaver, and knows how to diſpoſe of a Wench when he's tir'd of her: Here he runs on
+<pb n="18" facs="tcp:47976:25"/>like an Arithmetician, builds upon a falſe Multiplication Table of Three of the biggeſt of Four, runs to Diviſions and Subſtracti<g ref="char:EOLhyphen"/>ons, and caſts up Accounts, which he places to Mr. <hi>Collier,</hi> and which really when Examined, turn on<g ref="char:EOLhyphen"/>ly to a Cypher.</p>
+               <p>Here he changes his Tune again, and after he has blown the VVorld up with falſe Muſick, he lets his Pipe fall, and ſays, <hi>He loves to meddle with his Match.</hi> He ſays, <hi>It was a Mercy all the four VVomen were not Nought.</hi> It was ſo indeed, ſince Mr. <hi>Congreve</hi> had any Buſi<g ref="char:EOLhyphen"/>neſs with them. Towards the end of the Paragraph, he muſters up <hi>Furies</hi> and <hi>Harpies;</hi> and after he has ſhewn his little Reading, he brings in honeſt <hi>Ariſtotle,</hi> with his <hi>ipſe dixit,</hi> to paſs a Compli<g ref="char:EOLhyphen"/>ment on VVomen, and ſay, there
+<pb n="19" facs="tcp:47976:25"/>are more bad than good in the VVorld: This very piece of Breed<g ref="char:EOLhyphen"/>ing is what he taxes Mr. <hi>Collier</hi> with juſt before. But his Opini<g ref="char:EOLhyphen"/>on perhaps may be as his Song goes,
+<q>
+                     <hi>The Nymph may be Chaſte that has never been Try'd.</hi>
+                     <note place="margin">Love for Love.</note>
+                  </q> Which Senſe, <hi>Ovid</hi> writing after Mr. <hi>Congreve,</hi> had occaſion to borrow, but to hide his Theft, he made Latin of it, and put it in an Elegy. <hi>Caſta eſt quam nemo rogavit.</hi> Book 1ſt. Elegy 8. And becauſe he ſeems to value himſelf for the niceneſs of his Breeding, I'll quote you a place out of the <hi>Old Batchelor,</hi> ſhall give you a ſtrong proof of his good Manners; <hi>Hartwell</hi> ſays,</p>
+               <pb n="20" facs="tcp:47976:26"/>
+               <p> 
+                  <hi>My Talent is chiefly that of ſpeaking Truth,
+<note place="margin">Old Batch. P. 7.</note> which I don't ex<g ref="char:EOLhyphen"/>pect ſhou'd ever recommend me to People of Quality— I thank Heaven, I have very honeſtly pur<g ref="char:EOLhyphen"/>chaſed the Hatred of all the Great Families in Town.</hi>
+               </p>
+               <p>The Gentleman is extreamly well bred, and the Lord C— to whom it was Dedicated, had, no doubt, an extraordinary Com<g ref="char:EOLhyphen"/>pliment of it. But here, in the 18th page, he begins to look a<g ref="char:EOLhyphen"/>bout him and refer to his firſt Propoſition with a Witneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>How do you mean with a Witneſs? What becauſe he quotes <hi>Moliere?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Ay, as the Proverb goes, <hi>Ask my Brother if I am a Thief.</hi> But prithee, doſt think
+<pb n="21" facs="tcp:47976:26"/>thy Friend <hi>Will</hi> has no other mark of the <hi>French,</hi> but a ſmall Citation?</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>None that he is wil<g ref="char:EOLhyphen"/>ling to produce Sir; go on prithee, here you ſhall ſee he's a Sophiſter; in ſhort, he's eve<g ref="char:EOLhyphen"/>ry thing; ſee here how he ar<g ref="char:EOLhyphen"/>gues about a <hi>Pimp</hi> and <hi>a Poet,</hi>
+                  <note place="margin">Page, 20.</note> and when he has talk'd towards the end, a little, of <hi>Worſhiping the Devil,</hi> he conculdes—</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Like the Grave-digger in <hi>Hamlet,</hi> very Gravely with an <hi>Ergol,</hi> &amp;c. Truly I think, that Grave-digger and he, were the fitteſt Perſons to caſt up their Dirt and their Arguments together. In his pretty con<g ref="char:EOLhyphen"/>ciſe Sentence of three Lines, im<g ref="char:EOLhyphen"/>mediately following, he Snaps and Snarls like an angry Cur, that will ſuffer none to paſs
+<pb n="22" facs="tcp:47976:27"/>in quiet but his own Mungrel Breed: But, 'tis not Mr. <hi>Collier,</hi> as he would have it, but he himſelf that ought to be <hi>Lick'd,</hi>
+                  <note place="margin">
+                     <hi>Vide Anſ.</hi> p. 21.</note> but not with an <hi>Abſolution.</hi>
+               </p>
+               <p>
+                  <hi>O Law!
+<note place="margin">
+                        <hi>Anſw.</hi> p. 23.</note> here's the poor</hi> Mourn<g ref="char:EOLhyphen"/>ing Bride <hi>tax'd with Smat and Prophaneneſs, Alack! and a Well-a-day! Nay, if there be Immodeſty in my Tragedy too, I ſhall never write any thing Modeſtly while I have a Being. Poor</hi> Will. <hi>what do the Damn'd endure, but to De<g ref="char:EOLhyphen"/>ſpair.</hi>
+               </p>
+               <p>In Page 26. he's got to his Letters again: Who knows but he may be able to write ſome<g ref="char:EOLhyphen"/>thing with Modeſty and De<g ref="char:EOLhyphen"/>cency as he calls it? If he can but get back again the Skill that he wittily gives to Mr. <hi>Col<g ref="char:EOLhyphen"/>lier,</hi>
+                  <pb n="23" facs="tcp:47976:27"/>in <hi>Anagram,</hi> there may be ſome hopes ſtill. Here he ſeems more than ordinary mov'd: That his Poetry ſhould be Criticiz'd upon, is ten times worſe than the Prophaneneſs, but <hi>the corruption of an incorrigible Plagiary is the Ge<g ref="char:EOLhyphen"/>neration of a Sowr Poet.</hi>
+               </p>
+               <p>Here he ſeems to take a brea<g ref="char:EOLhyphen"/>thing a little, and for refreſhment ſake, I ſuppoſe, <hi>wafts the Air</hi> to and fro with a couple of <hi>Epithets,</hi> till he cools himſelf into a conſent with Mr. <hi>Collier</hi> in a very ſhort time; and indeed he has need on't, for he ſeems to be in a very fiery Paſſion: But I find, <hi>Non poteſt &amp; ſor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere &amp; flare.</hi> He might have kept his breath to have cool'd his Potage.</p>
+               <p>Here in the ſelf ſame Paragraph he breaks the new made League, and that very affair which juſt
+<pb n="24" facs="tcp:47976:28"/>now he conſented to, he lays, at the cloſe to Mr. <hi>Collier</hi>'s Charge as Nonſenſe. Prithee don't tell your Friend <hi>Congreve</hi> I find fault with his Book, for if it be his <hi>Iriſh-Staffordſhire</hi> way of boxing, to ſhake hands firſt, and hit one a ſlap in the Face, I'll be ſure to keep out of his Clutches. He's <hi>a dainty Critick indeed?</hi> 'Tis with him and his <hi>Muſe,</hi> as he ſays,—</p>
+               <p>
+                  <hi>O let us not ſupport, but ſink each other lower yet, down, down, where levell'd low,</hi> &amp;c.</p>
+               <p>Prethee, what would his <hi>Muſe</hi> and he have? Are they not low enough already? I am ſure if her wings were cut, as Mr. <hi>Collier</hi> has juſtly mark'd them, we ſhould have fewer of his flights to Heaven or Hell, till he were better convinc'd whe<g ref="char:EOLhyphen"/>ther
+<pb n="25" facs="tcp:47976:28"/>the Torture of the <hi>Damn'd were, but knowing Heaven, to know it loſt for ever.</hi>
+               </p>
+               <p>Here he falls a <hi>Jeſting, and letting off Puns and Crackers,</hi> he has got <hi>a Whip and a Bell too,</hi> and indeed I think they are in very good hands. Since he by his own confeſſion, <hi>and in his own dog Language,</hi> can <hi>teach a Spaniel to ſet.</hi> So, he's got in<g ref="char:EOLhyphen"/>to his Element again. What will he ſay to this here, where he would make two of Mr. <hi>Collier?</hi> I don't find that he has hack'd, and hew'd him ſo, that he's like to fall one jot a-pieces; rather, <hi>creſcit ſub pondere virtus.</hi> Two to one they ſay is odds at Foot-Ball, and I fancy Mr. <hi>Collier</hi> unmultiply'd has given him toſ<g ref="char:EOLhyphen"/>ſes enough to make him ſhun him, but poor <hi>Will.</hi> when the
+<pb n="26" facs="tcp:47976:29"/>Ball is loſt, will venture to kick at his Shins, for I don't under<g ref="char:EOLhyphen"/>derſtand how he can make Mr. <hi>Collier the Divine</hi> any other Man than what he is, ſo as to aſ<g ref="char:EOLhyphen"/>ſume another Perſon to turn Critick in, and yet remain Mr. <hi>Collier the Divine,</hi> all the while; if he can ſpin this double ſpi<g ref="char:EOLhyphen"/>der's Web out of the Bowels of his Invention, I ſhould allow that he had ſome guts in his Brains, and conſent with him, where he ſays, p. 51. <hi>Nature has been provident only to Bears and Spiders.</hi> Here's a rare boy for you again.</p>
+               <p>
+                  <hi>Epithets make Proſe languiſh<g ref="char:EOLhyphen"/>ing,
+<note place="margin">
+                        <hi>Anſw.</hi> p. 31.</note> and cold; and the frequent uſe of them in Proſe, makes it pretend too much, and approach too near to Poetry,</hi> Sure the Gen<g ref="char:EOLhyphen"/>tleman forgot himſelf here, the
+<pb n="27" facs="tcp:47976:29"/>Ague of inervate coldneſs, not the Feaver of Paſſion has ſeiz'd him now, but he has been knea<g ref="char:EOLhyphen"/>ding up his Proſe ſo long, that in ſpite of all his ſhaking, it will ſtick upon his hands; for that the ſame thing <hi>ſhould make Proſe languiſhing and cold, and yet approach too near to any Po<g ref="char:EOLhyphen"/>etry,</hi> (but Mr. <hi>Congreve</hi>'s) is as ſtrange to me, as that the ſame acquaintance between Mr. <hi>Charles Hopkins</hi> and him, ſhould make the former, through too much good Nature, and willingneſs to raiſe his <hi>Friend</hi> as he <hi>thought him,</hi> Dedicate, and Aſcribe to him, what he really owes to Nature only; and the <hi>latter</hi> ve<g ref="char:EOLhyphen"/>ry impudently, in publick; to ſay he was very angry with him for the preſumption. A very pretty Fellow truly this. Now,
+<pb n="28" facs="tcp:47976:30"/>I ſuppoſe he was at the head of the Table, where he always ſits, when he talk'd at this moſt arro<g ref="char:EOLhyphen"/>gant manner.</p>
+               <p>Well, Mr. <hi>Collier</hi> ſays <hi>ſome of his Figures are Stiff.</hi> I don't doubt it, he's a very ſtiff Gen<g ref="char:EOLhyphen"/>tleman, we ſee, but prethee what anſwer doſt think he gives him?</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>Why, I don't know, I dare ſwear he do's not bend to him, for I don't know where his ſtiffneſs bends in the whole Book, unleſs it be to an Old Woman, p. 42. why, perhaps he anſwers him as I would do my my ſelf, and ſays, <hi>they are not ſtiff.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Juſt ſo indeed, that's his way of arguing as well as yours. 'Tis certainly to be obſerv'd, that all weak Diſpu<g ref="char:EOLhyphen"/>tants,
+<pb n="29" facs="tcp:47976:30"/>when they have nothing to ſay, grow plaguy poſitive. I wonder he did not offer to lay a wager that they were not ſtiff, for,
+<q>
+                     <hi>Fools for Arguments lay Wagers</hi> Hudibr.</q>
+               </p>
+               <p>But he's too far in for the Betts already, and I am ſure would be glad to get his own Stake, and ſneak off. And in<g ref="char:EOLhyphen"/>deed I have heard ſo bad a Cha<g ref="char:EOLhyphen"/>racter of his Book ſince it came out, that I fancy 'tis worſe with his countenance than the <hi>proverb</hi> would make it, which ſays, <hi>he looks as he had neither loſt nor won. He has gain'd nothing,
+<note place="margin">Old Batch, p. 9.</note> but what as a Man might ſay has been to his loſs:</hi> Nay, don't ſtare, for there's another <hi>Sharper</hi> has
+<pb n="30" facs="tcp:47976:31"/>been forc'd to own the ſame thing.</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>Prethee mind the Book, and read that, not the Man, don't make him worſe than he is, or you'll run into as bad a diſtinction as you ſay he does, when he divides Mr. <hi>Collier</hi> the Divine, and Mr. <hi>Collier</hi> the Cri<g ref="char:EOLhyphen"/>tick, for here you make a dif<g ref="char:EOLhyphen"/>ference between the <hi>Poet,</hi> and Mr. <hi>Congreve.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>O there's a great deal of difference, but perhaps I don't pretend to make them the <hi>ſame perſon.</hi> Beſides, he takes Mr. <hi>Col<g ref="char:EOLhyphen"/>lier</hi>'s perſon to task, and why ſhould not I inſpect him a lit<g ref="char:EOLhyphen"/>tle, 'tis not his ſnarling at the Town in a fulſom Dedication to a damn'd Play, when he ſhould Addreſs to his Patron all the while, that ſhall make me ſpare
+<pb n="31" facs="tcp:47976:31"/>him, neither am I bound to be<g ref="char:EOLhyphen"/>lieve him when he ſays in the ſame Dedication— <hi>If I really wiſh it might have had a more popular reception; it is not at all in conſideration of my ſelf;
+<note place="margin">Dedica. Double Dealer.</note> but becauſe I wiſh well, and would gladly contribute to the benefit of the Stage, and diverſion of the Town.</hi> There's your <hi>Double Dea<g ref="char:EOLhyphen"/>ler</hi> for you, never was Poets Character better drawn by him<g ref="char:EOLhyphen"/>ſelf, <hi>ſince the Ignorance and Malice of the greater part of the Audience grew ſuch,
+<note place="margin">Ibid.</note> that they would make a Man turn Herald to his own Play, and blazon every Character.</hi> I'll no more believe his late De<g ref="char:EOLhyphen"/>claration to the World and his Patron, than I believ'd him, when he ſaid he'd go as far as <hi>New-Market</hi> to ſee a Play which a Friend of mine writ; but per<g ref="char:EOLhyphen"/>haps
+<pb n="32" facs="tcp:47976:32"/>Mr. <hi>Congreve</hi> thought him<g ref="char:EOLhyphen"/>ſelf particularly concern'd, which made him mention <hi>New-Market,</hi> when the Horſe-Races were run there, this Gentleman, he ſaid, (as he had heard) declar'd to <hi>ſet up in oppoſition to him</hi> in the o<g ref="char:EOLhyphen"/>ther Houſe, ſo, 'tis likely, Mr. <hi>Congreve</hi> thought his Poetry in danger: But, <hi>ſet up, what?</hi> Not himſelf, in oppoſition to Mr. <hi>Con<g ref="char:EOLhyphen"/>greve.</hi> I dare excuſe my Friend from that Grand Preſumption, or the open profeſſion of it at leaſt; he only, as being a Poet, deſign'd indeed to ſet up his <hi>Pe<g ref="char:EOLhyphen"/>gaſus</hi> at the other Houſe, pray, what was that to Mr. <hi>Congreve:</hi> O, but when he talk'd of oppo<g ref="char:EOLhyphen"/>ſition to his Houſe, perhaps 'twas ſomething to the Beaſt he rides on. Now in my opinion, it would be well if he could bridle
+<pb n="33" facs="tcp:47976:32"/>his Tongue, and not ſpur him<g ref="char:EOLhyphen"/>ſelf, as well as his <hi>Roſinante,</hi> out of breath; nor would I have him think others, (who may have better Courſers) muſt be rid out o 'the ſtirrups, becauſe he has got ſo much the ſtart of them; and I know not how it might have gone, if my Friend had gi<g ref="char:EOLhyphen"/>ven him the Challenge, (tho' he never deſign'd more than an ayring) but I dare ſwear he would have ſweated leaſt, and yet I'll allow too what <hi>Hartwell</hi> ſays,
+<q>
+                     <l>
+                        <hi>All Courſers the firſt heat with vigour run,</hi>
+                     </l>
+                     <l>
+                        <hi>But 'tis with Whip and Spur the Race is won.</hi>
+                     </l>
+                  </q> the Gentleman too thought Mr. <hi>Congreve</hi> not his Enemy at leaſt, becauſe when he was firſt re<g ref="char:EOLhyphen"/>commended
+<pb n="34" facs="tcp:47976:33"/>to him by a Friends Letter, the mighty Man of Wit was pleas'd to ſay he'd give him what aſſiſtance poſſibly he could in his Art, (as he was pleas'd to call it) when in the end, at the Repreſentation of this Play of my Friend's, he was ſeen very gravely with his Hat over his Eyes among his chief Actors, and Actreſſes, together with the two She Things, call'd <hi>Poeteſſes,</hi> which Write for his Houſe, as 'tis nobly call'd; thus ſeated in State among thoſe and ſome other of his Ingenious critical Friends, they fell all together upon a full cry of Damnation, but when they found the mali<g ref="char:EOLhyphen"/>cious Hiſs would not take, this very generous, obliging Mr. <hi>Con<g ref="char:EOLhyphen"/>greve</hi> was heard to ſay, <hi>We'll find out a New way for this Spark,
+<pb n="35" facs="tcp:47976:33"/>take my word there is a way of clapping of a Play down.</hi>—This was heard by very creditable Perſons, but his Malice could no way prevail, for ſpite of him, and all other diſadvantages the Play ſurviv'd with Applauſe, and overcame his Envy.</p>
+               <p>But to go on with his Book, here he talks of <hi>puffing and blow<g ref="char:EOLhyphen"/>ing, and laying about in ſhort Sentences,</hi> ſure he has been an Apprentice to a Blackſmith that he's always ſtirring the Coals thus, only to make himſelf more ſmutty; but the miſchief on't is, he can never ſtrike the Iron while 'tis hot: Well, I begin to be tyr'd of him, and ſhall only run him ſlightly over, <hi>and take notice of his errors, where they ſhall appear blazing</hi> in his polite Pages.</p>
+            </sp>
+            <sp>
+               <pb n="36" facs="tcp:47976:34"/>
+               <speaker>Johnſ.</speaker>
+               <p>
+                  <hi>You are undoubtedly in the right to take juſt as much as ſerves your own turn.</hi>
+                  <note place="margin">
+                     <hi>Anſ.</hi> Pag. 38.</note> But I don't hear you commend at all.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No truly, I can't com<g ref="char:EOLhyphen"/>mend a dull thing, if I know it to be ſuch; I can't forbear fal<g ref="char:EOLhyphen"/>ling a ſleep over the <hi>Double Dea<g ref="char:EOLhyphen"/>ler,</hi> tho' <hi>Dryden</hi> has writ a fine Commendatory Copy before it: Where the paint's lay'd on ſo very thick, 'tis a ſign the Face is a very ſcurvy one; and as for <hi>Dryden,</hi> why he'd give <hi>Du—y</hi> a Copy of Verſes if he would cringe to him, pray did he not write one to 'ther day, prefix'd to as wretched a piece of Stuff of a Play, as ever a <hi>Tennis-Court Theatre</hi> toſt into the World?</p>
+               <p>Here in page 38. he muſters up a Speech <hi>of the crying Sin of Adultery.</hi> Shows us that Mr. <hi>Col<g ref="char:EOLhyphen"/>lier</hi>
+                  <pb n="37" facs="tcp:47976:34"/>has left a rank broken and imperfect, and refers us to the Play, as the main body to make the breach up from thence. A pretty ſort of an Anſwer this; Is Mr. <hi>Congreve</hi> ſo aſſur'd that every Body has his fooliſh Plays by them? Or does he think thoſe that have, will take the pains? Pray, whoſe Buſi<g ref="char:EOLhyphen"/>neſs is it? 'tis they that Anſwer Mr. <hi>Collier,</hi> if they do, not he— Ah! poor Man!
+<note place="margin">
+                     <hi>Anſ.</hi> Pag. 39.</note> 
+                  <hi>Indeed I cannot forbear Laughing when I compare his dreadful Com<g ref="char:EOLhyphen"/>ment with ſuch poor ſilly words as are in the Text.</hi>— But hold, what's here? is our <hi>Democritus</hi> turn'd <hi>Heraclytus</hi> already? Alas!
+<q>
+                     <hi>Let ſable Clouds her chalky Cliffs adorn.</hi>
+                     <note place="margin">Paſtora.</note>
+                  </q>
+                  <pb n="38" facs="tcp:47976:35"/>Which with his foregoing Line, which makes up the burthen of the Song, is Stol'n from a Poem written on the Death of <hi>General Monk;</hi> but I need not detect him in Particulars, what has he publiſh'd that is not Stol'n? Alas! this is ſo Melan<g ref="char:EOLhyphen"/>choly, 'tis almoſt next to <hi>Dead, Dead, Dead.</hi> Well, if I can con<g ref="char:EOLhyphen"/>ſtrain my Tears, I'll read it you <hi>in totidem Verbis.</hi>
+               </p>
+               <p>
+                  <hi>—Eſpecially when I reflect how young a beginner,
+<note place="margin">Ibid.</note> and how very much A Boy I was when that Co<g ref="char:EOLhyphen"/>medy was Written, which ſeveral know, was ſome Years before it was Acted: When I wrote it, I had little thoughts of the Stage; but did it to amuſe my ſelf in a ſlow recovery from a fit of Sickneſs. Af<g ref="char:EOLhyphen"/>terwards
+<pb n="39" facs="tcp:47976:35"/>through my Indiſcretion, it was ſeen; and in ſome little time more, it was Acted. And I through the remainder of my In<g ref="char:EOLhyphen"/>diſcretion, ſuffer'd my ſelſ to be drawn in, to the proſecution of a difficult and thankleſs Study.</hi>
+               </p>
+               <p>Poor <hi>Billy!</hi> why I proteſt, the poor Boy has been hardly dealt with. I'm afraid it has met with a Step-mother Muſe; But what would it be at? would it have its Backſide ſtuck with Points? Or would it have the Ladies o'th' Town ſend it Bread and Butter with Glaſs Windows wrought on't? Or what other Gugaw would it have? Mr. <hi>Collier</hi> has given it a Coral to make it cut its Teeth kindly, and a Rattle to quiet it, but theſe it is not pleas'd with.</p>
+               <pb n="40" facs="tcp:47976:36"/>
+               <p> Well,
+<note place="margin">
+                     <hi>Anſ.</hi> Pag. 40.</note> here's another piece of Mr. <hi>Congreve</hi>'s Kindneſs, he's ve<g ref="char:EOLhyphen"/>ry glad Mr. <hi>Collier</hi> has ſome devotion for the Lips and Eyes of a pretty Woman; the Wag talks ſo pleaſingly of it, that he licks his own Lips at her till he makes his Teeth water, and yet he gives her up to Mr. <hi>Col<g ref="char:EOLhyphen"/>lier;</hi> what won't he do to be Reconcil'd?</p>
+               <p>Well, <hi>with reverence to your Friend the Author be it ſpoken;</hi> Immediately following here,
+<note place="margin">Ibid.</note> he confeſſes himſelf to have writ ſtark Nonſenſe. I wonder now what's become of all his wonted Fury, he has not been very an<g ref="char:EOLhyphen"/>gry for a pretty while, but as he ſays, perhaps <hi>Paſſion comes upon him by Inſpiration.</hi> I won<g ref="char:EOLhyphen"/>der if Dulneſs does not ſo too.</p>
+               <pb n="41" facs="tcp:47976:36"/>
+               <p> Here he repeats a Citation out of the <hi>Old Batchelor,</hi> and ſays.</p>
+               <p>
+                  <hi>There are ſome things promis'd in ſome body's Name.</hi>
+               </p>
+               <p>Now, to excuſe himſelf from the abuſe of the <hi>Catechiſm,</hi> he wiſely ſays only— <hi>I meant no ill in this Allegory,
+<note place="margin">
+                        <hi>Anſ.</hi> Pag. 42.</note> nor do I perceive any in it now.</hi> To re<g ref="char:EOLhyphen"/>rturn his own ill Expreſſion on him which he uſes on this occa<g ref="char:EOLhyphen"/>ſion, he has prov'd but a very bad <hi>Godfather,</hi> to promiſe ſome thing, and perform nothing, but poorly excuſe himſelf with pleading Ignorance, when he ſhould rather correct the Brats he has promis'd for, than wil<g ref="char:EOLhyphen"/>fully (meerly to be rid of them)
+<pb n="42" facs="tcp:47976:37"/>have them confirm'd in their unbounded Wickedneſs. So,— here's another Paragraph I'll read you <hi>verbatim.</hi>
+               </p>
+               <p>
+                  <hi>In the</hi> Double Dealer,
+<note place="margin">
+                     <hi>Anſ. Pag.</hi> 42.</note> 
+                  <hi>Mr.</hi> Collier ſays, <hi>Lady</hi> Plyant <hi>crys out</hi> Jeſu, <hi>and talks Smut in the ſame Sentence. That Exclamati<g ref="char:EOLhyphen"/>on I give him up freely. I had my ſelf long ſince condemn'd it, and reſolv'd to ſtrike it out in the next Impreſſion. I will not urge the Folly, Viciouſneſs or Af<g ref="char:EOLhyphen"/>fectation of the Character to ex<g ref="char:EOLhyphen"/>cuſe it. Here I think my ſelf oblig'd to make my Acknowledg<g ref="char:EOLhyphen"/>ments for a Letter which</hi> I <hi>re<g ref="char:EOLhyphen"/>ceiv'd after the publication of this Play, relating to this very Paſſage. It came from an Old Gentlewoman and a Widow, as
+<pb n="43" facs="tcp:47976:37"/>ſhe ſaid, and very well to paſs: It contain'd very good Advice, and requir'd an Anſwer, but the Di<g ref="char:EOLhyphen"/>rection for the Superſcription was forgot. If the good Gentlewoman is yet in being, I deſire her to receive my Thanks for her good Council, and for her approbation of all the Comedy, that word alone excepted.</hi>
+               </p>
+               <p>This is a pretty tale of a Tub, is it not? In the firſt place, the word <hi>Jeſu</hi> is no leſs than thrice Prophanely men<g ref="char:EOLhyphen"/>tion'd in this Comedy, which I never heard that any body but <hi>Dryden</hi> and this good old Woman ever yet approv'd of. Well, 'twere ſomething could we hope this word, which he applies ſo ill, would be daſh'd
+<pb n="44" facs="tcp:47976:38"/>out of the next Impreſſion; but hold, I forget my ſelf, who will ever be at the charge of another Impreſſion of ſuch a piece of heavy Stuff as the <hi>Double Dealer?</hi> Well,—here's a moſt ſurprizing Turn, here's an old Woman (becauſe, as ſhe ſaid, very well to paſs) courted at a moſt extravagant rate: But poor <hi>Will</hi> was very hard put to it here, that he might not make his Con<g ref="char:EOLhyphen"/>feſſion, and owe his Thanks to Mr. <hi>Collier;</hi> and being thus heavily puzzl'd, and in the dark, thought <hi>Joan</hi> was as good there as my Lady. After he had been a good while, as I imagin, between Hawk and Buzard, he e'en wiſely turn'd to the to the latter. But what
+<pb n="45" facs="tcp:47976:38"/>a wretched condition muſt he certainly have been in, when he was forc'd to frame ſo idle a Story, chiefly for the ſake of a pretence to make us believe in the tail of the Paragraph, that he had an Old Womans <hi>approbation of all the Comedy, that word alone excepted?</hi> I think he had better have yield<g ref="char:EOLhyphen"/>ed thankfully to Mr. <hi>Collier,</hi> but he's of his own Mr. <hi>Brisk</hi>'s temper, where he ſays,</p>
+               <p>
+                  <hi>Egad, I love to be Malicious,
+<note place="margin">Double Dealer, Pag. 8.</note> —nay, the Deuce take me, there's Wit in't too— and Wit muſt be foil'd by Wit; cut a Diamond with a Diamond: No other way Egad.—</hi>
+               </p>
+               <pb n="46" facs="tcp:47976:39"/>
+               <p> 
+                  <hi>Egad;</hi> there's a Diamond for you now, pray what Diamond can cut that? I'm afraid the World Exclaims, (or l'm ſure they have reaſon) at the un<g ref="char:EOLhyphen"/>equal'd Prophaneneſs of his Ex<g ref="char:EOLhyphen"/>preſſions, worſe than the <hi>Lady Plyant</hi> does in his Play, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>But I have not Patience— Oh!
+<note place="margin">Double Dealer. Page, 21.</note> the Impiety of it! as I was ſaying, and the unparablel'd Wick<g ref="char:EOLhyphen"/>edneſs!</hi> Then follows, <hi>O Mer<g ref="char:EOLhyphen"/>ciful Father!</hi>
+               </p>
+               <p>A very pretty Exclamation, that—when the Perſon ſpeak<g ref="char:EOLhyphen"/>ing, Diſſembled all the while, and taxes another with what ſhe knew to be falſe. I ſhall only deſire your Friend to conſider, what the ſame Lady ſays a little after.</p>
+               <pb n="47" facs="tcp:47976:39"/>
+               <p> 
+                  <hi>O reflect upon the horror of that and then the guilt of de<g ref="char:EOLhyphen"/>ceiving every Body.</hi>
+               </p>
+               <p>Here he ſeems to be at Queſtions and Commands,
+<note place="margin">
+                     <hi>Anſ. Pag.</hi> 43.</note> a playing with Mr. <hi>Collier,</hi> and becauſe the latter has not given a pawn for my La<g ref="char:EOLhyphen"/>dy <hi>Plyant</hi>'s looſe talk, your Friend <hi>Will</hi> pretends to <hi>Smut</hi> him, 'tis a very dirty trick of him, that you will own at leaſt.</p>
+               <p>Well, here he pretends to excuſe the Character of a Fool in his Play,
+<note place="margin">Ibid.</note> (ſaying up<g ref="char:EOLhyphen"/>on all, and upon no occaſi<g ref="char:EOLhyphen"/>ons, — <hi>I am beholding to Providence, truly, I am mightily beholding to Provi<g ref="char:EOLhyphen"/>dence.</hi>)
+<pb n="48" facs="tcp:47976:40"/>only by, catching at a ſlip which perhaps the Prin<g ref="char:EOLhyphen"/>ter might have been guilty of, not Mr. <hi>Collier,</hi> the mean<g ref="char:EOLhyphen"/>ing is plain however, but ſuch a Foe as your Friend <hi>Will</hi> once driven to diſpair, will give no quarter, but catch at all advantages. Well, if this Prophaneneſs of his, ben't re<g ref="char:EOLhyphen"/>puted to him as Sin, (with<g ref="char:EOLhyphen"/>out Repentance,) he will have reaſon in earneſt to take the words of his Fool into his own Mouth, and ſay, <hi>truly I am mightily beholding to Pro<g ref="char:EOLhyphen"/>vidence.</hi>
+               </p>
+               <p>But here the aſpiring Hot<g ref="char:EOLhyphen"/>headed driver runs on in his Career, more mad than <hi>Phae<g ref="char:EOLhyphen"/>thon,</hi> laſhing the Scripture with Burleſque, calling <hi>Jehu a Hack<g ref="char:EOLhyphen"/>ney-Coachman,</hi>
+                  <pb n="49" facs="tcp:47976:40"/>he really does what the other Mad-man was only feign'd to have done, he drives at Heaven to confound it with the wildneſs of his Courſe; and might he be ſuf<g ref="char:EOLhyphen"/>fer'd to go on, he would ſet the World on Fire; but as the ſaying is, I hope, there will be a ſpoke put in his Wheel. Mr. <hi>Collier</hi> has Thunder'd him pretty well, but like the other raſh miſtaken Boy, he runs headlong on, becauſe forſooth he thinks himſelf a <hi>Brat of A<g ref="char:EOLhyphen"/>pollo</hi>'s. Well then, becauſe we ſuppoſe our ſelf to have ſprung from this radiant God, we may be preſumptuous, and <hi>Paſſion may come upon us by In<g ref="char:EOLhyphen"/>ſpiration.</hi>
+               </p>
+               <pb n="50" facs="tcp:47976:41"/>
+               <p> Well, ſee this ſame High-born Babe, with not one of his Fa<g ref="char:EOLhyphen"/>ther's Rays about him, or any thing elſe of the God, but the fiery Rage, when he's at a loſs how to Guide.</p>
+               <p>
+                  <hi>Inſpiration ſignifies no more than Breathing into;</hi>
+                  <note place="margin">
+                     <hi>Anſ. Pag.</hi> 45.</note> Now, if if it be ſo, I believe when Mr. <hi>Congreve</hi> was <hi>Inſpir'd</hi> with Poetry, he was only <hi>Breath'd into;</hi> but whether it might be the back way or no, I leave to the Opinion of the World. He has got a Dog-trick of turning round ſometimes be<g ref="char:EOLhyphen"/>fore he lyes down, as refer<g ref="char:EOLhyphen"/>ring, (when all his other <hi>Brea<g ref="char:EOLhyphen"/>thing into</hi> is gone) to ſome of his fine Propoſitions.</p>
+               <pb n="51" facs="tcp:47976:41"/>
+               <p> Well, after his reference to his <hi>Poſtulatum,</hi> ſure you would think he were lay'd; Ay, but he gets up again to Bark a little; he renews the Diſcourſe, meerly to ſhew his knowledge of a <hi>Puppet<g ref="char:EOLhyphen"/>ſhow,</hi> where he owns he can only argue as the <hi>Pupper</hi> did with the <hi>Rabbi; It is Prophane,
+<note place="margin">
+                        <hi>Anſ. Page</hi> 46.</note> and it is not Prophane.</hi> This is <hi>pro</hi> and <hi>con,</hi> that's the Truth on't, but if he would do as Mr. <hi>Brisk</hi> deſires, that is, give us <hi>Marginal Notes,</hi> it might be ſome Satisfaction.</p>
+               <p>So, to excuſe himſelf here from Mr. <hi>Collier,</hi> in his ſaying,</p>
+               <q>
+                  <hi>Tho' Marriage makes Man and Wife one Fleſh, it leaves them ſtill two Fools.</hi>
+               </q>
+               <pb n="52" facs="tcp:47976:42"/>
+               <p> He is forc'd to detect his Theft, and confeſs that he Borrow'd it from <hi>Ben John<g ref="char:EOLhyphen"/>ſon.</hi> who ſays in one of his Plays, <hi>Man and Wife make one Fool.</hi>
+               </p>
+               <p>Well,
+<note place="margin">
+                     <hi>Anſ.</hi> Page 48.</note> here <hi>Scandal</hi> ſays, he'll <hi>die a Martyr rather than diſ<g ref="char:EOLhyphen"/>claim his Paſſion.</hi> Now, what Martyr the <hi>Greek</hi> word may ſignifie, I muſt beg leave to contradict Mr. <hi>Congreve,</hi> and ſay, that in plain <hi>Engliſh, that is,</hi> plain cuſtomary Acceptati<g ref="char:EOLhyphen"/>on, it does not ſignifie Wit<g ref="char:EOLhyphen"/>neſs, but Martyr, <hi>that is,</hi> as our common Notion of the word bears, one who dies for his Religion. But Mr. <hi>Con<g ref="char:EOLhyphen"/>greve</hi> is ſo angry, and ſo near Swearing about it, that he will needs have it for a Witneſs;
+<pb n="53" facs="tcp:47976:42"/>well, he's a fiery Gentleman, <hi>and would rather die a Martyr than diſclaim his Paſſion.</hi>
+               </p>
+               <p>Here again he's put to't to confeſs where he borrow'd the word <hi>Whoreſon;</hi> from <hi>Shake<g ref="char:EOLhyphen"/>ſpear</hi> and <hi>Johnſon.</hi> Well, but he has us'd it ſo lately, that I ſhan't diſpute his Title to't by any means.</p>
+               <p>Hey day! what have we got here? <hi>Jeremy Congreve,</hi> who's that prithee, doſt know?</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>No, faith, my Friend's Name is <hi>Will.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>No, no, 'tis <hi>Jeremy,</hi> 'tis certainly <hi>Jeremy,</hi> I'll call him ſo, becauſe there's Wit in't; Oh, 'tis very Ingenious when I would rally a Man, to ſay,
+<note place="margin">
+                     <hi>Anſ.</hi> Page 50.</note> 
+                  <hi>He can't call me</hi> Jere<g ref="char:EOLhyphen"/>my Congreve; <hi>let him call me
+<pb n="54" facs="tcp:47976:43"/>what he will, he can't call me</hi> Jeremy Congreve.</p>
+               <p>
+                  <hi>I find he rallies more like a Waterman than a Gentleman, and and argues more like a Pedant than a Scholar.</hi>
+               </p>
+               <p>Here again, he deſires the Reader to look over his Plays, to find Citations; ſet the Im<g ref="char:EOLhyphen"/>pudence on't aſide, 'tis a ve<g ref="char:EOLhyphen"/>ry pretty way of Evaſion; when he's caught in the Net, if poſſible, he gives a flounce out, and the Standers by, if they pleaſe, may go ſeek for him in his <hi>own Mud;</hi> but as the ſaying is, I fancy moſt have other Fiſh to fry.</p>
+               <pb n="55" facs="tcp:47976:43"/>
+               <p> Here he talks of a Speech of Sir <hi>Sampſon's;</hi> in the Play 'tis ſaid,
+<q>
+                     <hi>The</hi> Sampſons <hi>were ſtrong Dogs from the Beginning.</hi>
+                  </q> And ſo on with more ſuch Prophane Stuff; but let Mr. <hi>Congreve</hi> take notice how Sir <hi>Sampſon</hi> is Auſwer'd, for 'tis <hi>well if he does not pull an old Houſe over his Head.</hi>
+               </p>
+               <p>Here he's a Star-gazing with as much care as Sir <hi>Sydrophel's Watchum</hi> himſelf,
+<note place="margin">
+                     <hi>Auſ. Pag.</hi> 52.</note> to know whe<g ref="char:EOLhyphen"/>ther <hi>Solomon</hi> had his Wiſdom by <hi>Aſtrology</hi> or no; or per<g ref="char:EOLhyphen"/>haps it may be to find out whether or not he was Wiſe; for, to banter the Scripture, and ridicule the Knowledge of
+<pb n="56" facs="tcp:47976:44"/>
+                  <hi>Solomon;</hi> I remember where he ſays,
+<q>
+                     <hi>All that he knew was, that he knew nothing.</hi>
+                  </q> and that Stol'n too from the laſt Lines of the <hi>Emperor of the Moon.</hi>
+               </p>
+               <p>I wiſh Mr. <hi>Congreve</hi> knew as much of himſelf, I am ſure it were not amiſs to tell him ſo; for in ſpight of all his <hi>Aſtrology,</hi> I fear in the end he may come to Curſe his Stars.</p>
+               <p>Well, here Valentine ſays <hi>I am Truth.</hi> This is in all Mens Opinion, whom I have hear'd ſpeak of it, horrid Prophanity, and I think ſcarce any Body but a <hi>Wittol</hi> would have put
+<pb n="57" facs="tcp:47976:44"/>ſuch words in a Madman's Mouth: Poorly to excuſe it, he ſays he had firſt written, <hi>I am Tom-tell-troth.</hi>
+                  <note place="margin">
+                     <hi>Anſ.</hi> Pag. 56.</note> I dare pre<g ref="char:EOLhyphen"/>ſume, Mr. <hi>Congreve</hi> is not <hi>Truth,</hi> when he ſays ſo, nor will I allow him the Title (which he himſelf as he owns has blot<g ref="char:EOLhyphen"/>ted out) of <hi>Tom-tel-troth</hi> nei<g ref="char:EOLhyphen"/>ther. As Mr. <hi>Congreve</hi> allows <hi>Inſpiration</hi> to be but <hi>Breathing into,</hi> certainly I believe, when he was <hi>Inſpir'd</hi> to write this, he was <hi>breath'd into by the De<g ref="char:EOLhyphen"/>vil.</hi>
+               </p>
+               <p>A pretty Humour this next of his, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>In the next Chapter he quotes me ſo little,
+<note place="margin">
+                        <hi>Anſ. Page</hi> 57.</note> and has ſo little reaſon even for that little, that 'tis hardly worth Examining.</hi>
+               </p>
+               <pb n="58" facs="tcp:47976:45"/>
+               <p> This is all very <hi>little</hi> I muſt confeſs, but while Mr. <hi>Congreve</hi> ſeems to ſlight it, and give no Anſwer, he is rais'd ſo up<g ref="char:EOLhyphen"/>on that <hi>little,</hi> that he looks very <hi>big</hi> upon't. I find he grows a <hi>little</hi> weary of his Adverſary tho', for he is not rather for playing at ſmall Game than ſtand out.</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>Sure you'll be pleas'd at laſt, come prithee read it out.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Pleas'd! no Faith, but I'm almoſt a-ſleep, prithee drink to me, all this ſtuff is ſo plaguy dry and inſipid, I want ſomething to put my mouth in Taſte.</p>
+               <p>Here's a long buſineſs all the way from pag. 60, to pag. 78. Whether or not Parſons ſhould
+<pb n="59" facs="tcp:47976:45"/>be Expos'd upon the Stage; I ſhall leave that to Mr. <hi>Col<g ref="char:EOLhyphen"/>lier</hi> (in the Anſwer I am told he deſigns) to determine; I ſhall only give my private Opinion that they ſhould not; for, to bring a Miniſter to ri<g ref="char:EOLhyphen"/>dicule him upon the Stage, muſt be meerly the effect of the Author's Contempt of the Clergy, and deſire that the Audience ſhould deſpiſe them them too, for what we have in Deriſion we Contemn: there is certainly no neceſſity for ma<g ref="char:EOLhyphen"/>king the Prieſt or the Chap<g ref="char:EOLhyphen"/>lain appear on the Stage; for, the Ceremony for which they're generally hook'd in, (that's Marriage) is never perform'd in the preſence of the Audi<g ref="char:EOLhyphen"/>ence; and as to Expoſing their
+<pb n="60" facs="tcp:47976:46"/>Faults, I take it to be the care and buſineſs of the Biſhops ſet over them, who can Puniſh them too for the Offence, and not the buſineſs of the Theatre, where Divines very rarely or never come of late. But I had like to have forgot one of your dear Friend's Expreſ<g ref="char:EOLhyphen"/>ſions.</p>
+               <q>
+                  <hi>Mr.</hi>
+                  <note place="margin">
+                     <hi>Anſ.</hi> Pag. 38.</note> Collier, <hi>who is very Conver<g ref="char:EOLhyphen"/>ſant in ill Plays.</hi>
+               </q>
+               <p>A very fair Confeſſion this that he makes now of <hi>his own four poor Plays;</hi> (his own, as he is pleas'd to call them.) But becauſe Mr. <hi>Collier</hi> is ſo converſant in <hi>his ill Plays,</hi> he's reſolv'd to hew him down, and place one part of him in
+<pb n="61" facs="tcp:47976:46"/>the Pit, and the other on the Stage: he had divided him <hi>Potentia</hi> once before, but now he divides him <hi>Actu.</hi>
+               </p>
+               <p>He dares not engage him any longer entire, but (as the <hi>French</hi> ſerv'd us at <hi>Landen,</hi> when our Army was ſeparated) he fights him by halves. Well, but while Mr. <hi>Collier</hi> is thus planted Piecemeal, where do'ſt think Mr. <hi>Congreve</hi> will take his Poſt? Why with his Dear <hi>Bracilla,</hi> in the little Box over the Stage, with his Hat held before his Face, to ſhew his Modeſty; or his Hatſtring. But I ſhall paſs his Conceited Stuff which he runs on with here, as arrogantly as if he had Spatchcock'd Mr. <hi>Collier</hi> in good Earneſt: And take it from
+<pb n="62" facs="tcp:47976:47"/>me, tho' ſome of the Town be your Friend <hi>Will</hi>'s Bigots, yet they will not continue ſo, when</p>
+               <p>
+                  <hi>He ſhall appear mounted upon a falſe</hi> Pegaſus,
+<note place="margin">
+                     <hi>Anſ. Page</hi> 83.</note> 
+                  <hi>like a</hi> Lanca<g ref="char:EOLhyphen"/>ſhire <hi>Witch upon an imaginary Horſe, the Fantom ſhall be <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>bridled, and the Broomſtick made viſible.</hi>
+               </p>
+               <p>Well, he continues his fine Diviſion of Mr. <hi>Collier</hi> for ſome Pages; I wonder what he makes of him at laſt, he'll riſe in his Arithmetick to his own Golden Rule by and by perhaps, and make him in the firſt ten Lines, the chief of the <hi>Gyants</hi> that fought againſt the Gods, and in the following
+<pb n="63" facs="tcp:47976:47"/>Ten, the <hi>Mars</hi> that overthrew the <hi>Gyants;</hi> this he could do admirably well in a <hi>Poem on Namur,</hi> and why not here?</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>And yet you ſay he ſteals every thing, now I dare ſwear he did not ſteal that?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Yes, doubtleſs, he ſtole both the chief <hi>Gyant</hi> and <hi>Mars,</hi> but for his own parti<g ref="char:EOLhyphen"/>cular fancy he thought fit to make but One of thoſe Two, juſt as he thought fit here to make Two of Mr. <hi>Collier:</hi> By this, I am afraid, that Mr. <hi>Col<g ref="char:EOLhyphen"/>lier</hi> appear'd more dreadful to him, than both <hi>Mars</hi> and the <hi>Gy<g ref="char:EOLhyphen"/>ant</hi> together.</p>
+               <p>But,
+<note place="margin">
+                     <hi>Anſ. Page</hi> 85.</note> 
+                  <hi>pitiful and mean compa<g ref="char:EOLhyphen"/>riſons,</hi> (viz. <hi>Mars</hi> and the chief <hi>Gyant</hi>) <hi>proceed from pitiful and
+<pb n="64" facs="tcp:47976:48"/>mean Ideas, and ſuch Ideas have their beginning from a familia<g ref="char:EOLhyphen"/>rity with ſuch Objects. From this Author's poor and filthy Metaphors and Similitudes we may learn the filthineſs of his Imagination; and from the uncleanneſs of that, we may make a reaſonable gueſs at his rate of Education, and thoſe Objects with which he has been moſt converſant and familiar.</hi>
+               </p>
+               <p>Here he ſays a great deal of <hi>Valentine,</hi>
+                  <note place="margin">
+                     <hi>Anſ.</hi> Page 88.</note> to vindicate him, but I ſhan't trouble my ſelf with it, e'en let the two Madmen go together for me, <hi>with the Curſe of all kind tender-hearted Women,</hi> which he modeſtly calls the <hi>Pox,</hi> and which he won<g ref="char:EOLhyphen"/>ders Mr. <hi>Collier</hi> could write at length, doubtleſs, Mr. <hi>Collier</hi>
+                  <pb n="65" facs="tcp:47976:48"/>would not rob Mr. <hi>Congreve</hi> of his <hi>Pox;</hi> for he knew it to be his, and that he deſerv'd it to the full, and at length.</p>
+               <p>Here he has got a Cat to Mew out a <hi>Spaniſh</hi> Proverb for him, and I dare ſwear the one underſtands the Language as well as 'tother, but any thing to ſhew our learning; tho' it be a Cat one while that ſhall ſtorm a Town, and the next Minute <hi>Mars</hi> and the <hi>Gyant.</hi> But he's of his dear <hi>Sharpers</hi>'s opinion— <hi>this ex<g ref="char:EOLhyphen"/>cellent Talent of railing was born with him,
+<note place="margin">Old Batch. p. 38.</note> and he muſt needs confeſs he has taken care to im<g ref="char:EOLhyphen"/>prove it, to qualifie him for the So<g ref="char:EOLhyphen"/>ciety of Ladies.</hi>
+               </p>
+               <pb n="66" facs="tcp:47976:49"/>
+               <p> Now I think all the Cita<g ref="char:EOLhyphen"/>tions in your Friends Book are over, and <hi>to give him his due, he ſeems every where to write more from Prejudice than Opinion; he Rails when he ſhould Reaſon, and for gentle reproofs, uſes ſcurrilous reproaches. He looks upon his Adverſaries to be his Enemies, and to juſtifie his Opi<g ref="char:EOLhyphen"/>nion in that particular, before he has done with them, he makes them ſo. If there were any Spirit in his Arguments, it would eva, porate and fly off unſeen, through the heat of his Paſſion. His Paſſion does not only make him appear to be in many places in the wrong, but it alſo makes him appear to be conſcious of it.</hi>
+               </p>
+               <p>
+                  <hi>That which ſhews the face of Wit in his writing, has indeed
+<pb n="67" facs="tcp:47976:49"/>no more than the Face, for the Head is wanting; he has put himſelf to ſome pain to ſhew his reading; and his reading is ſuch, it puts us to pain to behold it. He diſcovers an ill taſt in Books, and a worſe Digeſtion. He has ſwallow'd ſo much of the ſcum of Authors, that the over flowing of his own Gall was ſuperfluous to make it riſe upon his Stomach.</hi>
+               </p>
+               <p>
+                  <hi>Mr.</hi> Congreve<hi>'s vanity in pre<g ref="char:EOLhyphen"/>tending to Criticiſm, has extream<g ref="char:EOLhyphen"/>ly betray'd his Ignorance in the Art of Poetry: This is manifeſt to all that underſtand it, and I am not the only One who look on this Pamphlet of his to be a Gun levell'd at the whole Cler<g ref="char:EOLhyphen"/>gy, while the Shot only glances on Mr.</hi> Collier. <hi>Perſecution may
+<pb n="68" facs="tcp:47976:50"/>make Men perſevere in the wrong; Men may, by ill uſage be irri<g ref="char:EOLhyphen"/>tated ſometimes to aſſert, and maintain even their very er<g ref="char:EOLhyphen"/>rors. Perhaps there is a vicious Pride of triumphing in the worſt of the Argument, which is very prevailing with the Vanity of Mankind; I connot help thinking that our Author is not without his ſhare of this Vanity,</hi>—</p>
+               <p>And ſo, Friend <hi>Will,</hi> I re<g ref="char:EOLhyphen"/>turn you your Pamphlet.</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>Well, and how do you like it in groſs, ſpeak your mind.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Why, he has follow'd Capt. <hi>Vanbrook</hi> moſt ſervilely, in every thing— but his Wit, and Gentleman-like ſtile, and 'tis no matter if he had fol<g ref="char:EOLhyphen"/>low'd
+<pb n="69" facs="tcp:47976:50"/>the Gentleman Capt. <hi>Vanbrook</hi> talks of, who went Poet-Laureat to <hi>Ruſſia</hi> with the <hi>Czar. He has very plainly ſhewn himſelf to the view of the World, and in that he has loſt himſelf;</hi> he was unfit to play at <hi>Blind<g ref="char:EOLhyphen"/>mans-buff</hi> with the <hi>Muſes,</hi> who could not fare well, but he muſt cry out Roaſtmeat.</p>
+               <p>I muſt indeed confeſs, I think, Mr. <hi>Collier</hi> is a little too ſevere, when he would have the Play-Houſes pull'd down. In truth, rather than remain ſo horridly wicked as they are, with ſuch Actors, and ſuch Actreſſes, I ſhould be of his Opinion: but my Sentence paſ<g ref="char:EOLhyphen"/>ſes, as it was once given at <hi>Rome,</hi> of <hi>Carthage— Non delendam, ſed Carthaginem eſſe non timendam.</hi>
+               </p>
+               <pb n="70" facs="tcp:47976:51"/>
+               <p> The incomparable Author of the <hi>Whole Duty of Man. Sund.</hi> 2d <hi>Lect.</hi> 35. does not complain of the Theatre, as an Evil, where, if there had been rea<g ref="char:EOLhyphen"/>ſon, he had juſt opportunity, <hi>viz. By the Pomps and Vani<g ref="char:EOLhyphen"/>ties there are ſeveral things meant, ſome of them ſuch as were u'sd by the Heathens, in ſome unlaw<g ref="char:EOLhyphen"/>ful Sports of theirs, wherein we are not now ſo much concern'd, there being none of them remaining among us.</hi>
+               </p>
+               <p>Well, 'tis a little late now, but I ſhould be glad to meet you here ſome other Night to talk of Matters of the Theatre. Here boy, receive your Reck<g ref="char:EOLhyphen"/>oning,—Friend <hi>Johnſon,</hi> I thank you for bringing me to a Bottle of good Wine.</p>
+               <pb n="71" facs="tcp:47976:51"/>
+               <p> Stay, I proteſt I had almoſt forgot: I have a Paper in my Pocket concerning the Stage, and 'twas given me this Morn<g ref="char:EOLhyphen"/>ing by a young Lady—</p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>I am afraid you have quite forgot, are you ſure it was a young Lady? Ha, Mr. <hi>Smith;</hi> perhaps this is like my Friend <hi>Will</hi>'s old Woman.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>My young Lady like your Friend's old Woman! I aſſure you Sir you are miſtaken, She's in her bloom of Beauty as well as Wit, and that the latter flouriſhes in her, you ſhall ſee immediately, She's a little brief, I muſt confeſs; her writing is like her ſelf; the Poſſeſſion and Enjoyment of either, would but raiſe our Wiſhes and deſires, for new fruition.</p>
+            </sp>
+            <sp>
+               <pb n="72" facs="tcp:47976:52"/>
+               <speaker>Johnſ.</speaker>
+               <p>Prithee, let me ſee this ſo celebrated Offspring of a Beauty— you uſe me as a Jilt does a preſſing Lover; you raiſe me to a height of expecta<g ref="char:EOLhyphen"/>tion which I can't bear, till at laſt my deſires fly out, and the fruition's loſt.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>You know Ceremo<g ref="char:EOLhyphen"/>ny is always us'd to Ladies; but not to keep you longing, here 'tis; read it, and give me your opinion.</p>
+            </sp>
+         </div>
+         <div type="essay">
+            <pb n="73" facs="tcp:47976:52"/>
+            <head>A Short ESSAY ON THE STAGE.</head>
+            <p>
+               <hi>TOtus Mundus agit Hi<g ref="char:EOLhyphen"/>ſtrionem,</hi> is a Saying demonſtratively true: All Mankind are Actors; tho' the Lives of ſome paſs a<g ref="char:EOLhyphen"/>way
+<pb n="74" facs="tcp:47976:53"/>in gawdy Show and Opera, and the Lives of others are ſhuffl'd over, and ſpent in wild Confuſion; like irregular Plays, whoſe Scenes are ill, and often ſhifted: And tho' in reali<g ref="char:EOLhyphen"/>ty, we, (even while we are Spectators in a Theatre) play and act the Droll, or ſerious parts of our Lives, our ſelves; yet are we pleas'd with the Repreſentation there, as we are, when we ſee our Faces in a Glaſs. Every Spectator, <hi>Narciſſus</hi>-like, may view his Sha<g ref="char:EOLhyphen"/>dow in this Well, and fall
+<pb n="75" facs="tcp:47976:53"/>in Love with the Phantom if he pleaſes.</p>
+            <p>The uſe of the Stage, is to Inſtruct and Delight, and where the Repreſentation fails in either of theſe Points, it fails of the end; for In<g ref="char:EOLhyphen"/>ſtruction (in a Theatre par<g ref="char:EOLhyphen"/>ticularly) without Pleaſure, is as heavy, as Pleaſure with<g ref="char:EOLhyphen"/>out Inſtruction, is light.</p>
+            <p>Inſtruction like a Plant, may ſhoot forth into many branches, but at beſt, they would look bare and na<g ref="char:EOLhyphen"/>ked, without the flouriſh<g ref="char:EOLhyphen"/>ing Ornament of blooming Leaves; for, 'tis through
+<pb n="76" facs="tcp:47976:54"/>thoſe the Repreſentation courts, and Gently bends to the applauſe of the Audience, as ſpreading Boughs receive the Southern Breezes.</p>
+            <p>Now, on the other hand, Delight may pleaſe or take the Eye a little while, like full blown Roſes in a Gar<g ref="char:EOLhyphen"/>den; and while the Actor gathers them, to ſtrew your Bed of Pleaſure, you are ra<g ref="char:EOLhyphen"/>viſh'd with the Odour, but 'ſoon as e'er you preſs them for Enjoyment, your De<g ref="char:EOLhyphen"/>light is Cruſh'd.</p>
+            <p>The Repreſentation then ought to appear like the
+<pb n="77" facs="tcp:47976:54"/>
+               <hi>Orange-Tree,</hi> with Bloſſoms, to pleaſe the View, and Fruit to feed on: So that it may be ſuppos'd the In<g ref="char:EOLhyphen"/>ſtruction ought to proceed from the Delight; (or ap<g ref="char:EOLhyphen"/>pear at leaſt to do ſo.) For, the Spectators muſt needs be tempted with the Fruit, viewing the Beauteous Bloſ<g ref="char:EOLhyphen"/>ſoms whence it grew.</p>
+            <p>I ſhall now look into the Affairs of the <hi>Engliſh Stage:</hi> that, (as a ſtander by, ſee<g ref="char:EOLhyphen"/>ing all the Miſcarriages of the Game) I may give my Opinion how it ought to
+<pb n="78" facs="tcp:47976:55"/>be: ſhewing where the O<g ref="char:EOLhyphen"/>verſights are committed, and how the like may be avoid<g ref="char:EOLhyphen"/>ed for the future.</p>
+            <p>I would by no means have a Player made a Sha<g ref="char:EOLhyphen"/>rer, for then he grows ſo Sawcy immediately, that the Poet and the Actor tread the Stage with equal Foot; nay, and the Actor in a lit<g ref="char:EOLhyphen"/>tle while, ſhall Ten to One, pretend to turn Poet too. Actors ſhould indeed ne<g ref="char:EOLhyphen"/>ver have more Senſe than generally they have; a Parrot-like ſort of Cant, ſo they can but change
+<pb n="79" facs="tcp:47976:55"/>their Tone, is ſufficient for them.</p>
+            <p>The chief Manager, or Patentee, beſides Honeſty, ought at leaſt to have a good ſhare of Senſe, if not ſome acquaintance with the <hi>Muſes.</hi> However it may happen that a Patentee has not a Palate to reliſh <hi>Heli<g ref="char:EOLhyphen"/>con;</hi> but then 'tis abſolutely neceſſary that ſuch a one ſhould keep a Taſter; he ſhould employ and encou<g ref="char:EOLhyphen"/>rage ſome induſtrious Inha<g ref="char:EOLhyphen"/>bitant of <hi>Parnaſſus,</hi> and make him his Agent to ſet the Playhouſe Leaſes; by
+<pb n="80" facs="tcp:47976:56"/>this Method, tho' the Te<g ref="char:EOLhyphen"/>nant Poets take them but for the term of three, or ſix Nights at moſt; if they are Subſtantial Men, they may be encourag'd often to renew; and the Landlord have his Rents come in, with all the Duties.</p>
+            <p>I would not have the top Actor a Mad-man, nor be admir'd for the Rant, and Clap'd more for his Lungs than his Action. I would have all Actreſſes oblig'd by their Articles, to a con<g ref="char:EOLhyphen"/>ſiderable Forfeiture, upon proof of the abuſe of their
+<pb n="81" facs="tcp:47976:56"/>Vertue, or rather be Ex<g ref="char:EOLhyphen"/>pell'd the Theatre; for I think no Woman, after ſhe has play'd the Whore no<g ref="char:EOLhyphen"/>toriouſly, can be fancifully receiv'd upon the Stage for a Heroine.</p>
+            <p>I wou'd have a moderate ſhare of the Gains of the Theatre, ſet apart to ſome good Uſe, by publick Or<g ref="char:EOLhyphen"/>der; and ſpecial care taken for the performance of it: If I may give my Opini<g ref="char:EOLhyphen"/>on, it ſhould be to eaſe the Common-wealth of ſome of its uſeleſs Members, either by maintaining Old Decre<g ref="char:EOLhyphen"/>pid
+<pb n="82" facs="tcp:47976:57"/>Perſons, or putting a ſelect number of poor Chil<g ref="char:EOLhyphen"/>dren Apprentices Yearly, to ſome honeſt and uſeful Employments; and all Play<g ref="char:EOLhyphen"/>ers ſhou'd be oblig'd to contribute a certain <hi>Quan<g ref="char:EOLhyphen"/>tum</hi> out of every Pound they gain, towards it. This wou'd ſeem as it were a kind of Compenſation for the Idle<g ref="char:EOLhyphen"/>neſs of their own Lives; 'twoud look like a Purchaſe upon their Country, and be a ſort of buying their way of Living.</p>
+            <pb n="83" facs="tcp:47976:57"/>
+            <p> I wou'd have Seats ſepa<g ref="char:EOLhyphen"/>rately for the Men and Women; which wou'd per<g ref="char:EOLhyphen"/>haps be the beſt Method to leſſen the company of the Masks and Vizards in the Pit, who beſtow their Half-crown only to make Prize of ſome unwary Gen<g ref="char:EOLhyphen"/>tleman, whom they may Cully out of a more con<g ref="char:EOLhyphen"/>ſiderable Sum; and be a very effectual means to hin<g ref="char:EOLhyphen"/>der the diſmal Conſequen<g ref="char:EOLhyphen"/>ces that too often attend thoſe unhappy Encounters.</p>
+            <p>This ſeparation of the
+<pb n="84" facs="tcp:47976:58"/>Sexes, wou'd cut off all conveniencies and oppor<g ref="char:EOLhyphen"/>tunities for ſuch ſort of Engagements, or however, it muſt be granted, it wou'd totally take away the ſtron<g ref="char:EOLhyphen"/>geſt and moſt powerful parts of the Temptation: It wou'd ſecure the Ladies from the fooliſh and vexatious Im<g ref="char:EOLhyphen"/>pertinencies of the Flutter<g ref="char:EOLhyphen"/>ing Fops, and protect them from their Noiſe and Non<g ref="char:EOLhyphen"/>ſenſe; the Moral of the <hi>Drama</hi> wou'd be conſequent<g ref="char:EOLhyphen"/>ly more minded, and the Poet's Senſe and Player's Action more regarded: Bad
+<pb n="85" facs="tcp:47976:58"/>Poets cou'd never be able then to paſs ſuch Stuff on the Audience, as they daily do; and even the Beſt would be oblig'd to a greater care and pains in their Produc<g ref="char:EOLhyphen"/>tions.</p>
+            <p>By this nice attention and regard to the Performance, we ſhou'd have fewer Plays, yet more good ones. The number of our Diſhes wou'd be leſſen'd, but the remain<g ref="char:EOLhyphen"/>ing few, wou'd be more Wholſom and Palatable.</p>
+            <p>I wou'd have ſuch <hi>Im<g ref="char:EOLhyphen"/>morality</hi> and <hi>Prophaneneſs</hi> as
+<pb n="86" facs="tcp:47976:59"/>the Maſter of the <hi>Revels</hi> Marks to be cut out, abſo<g ref="char:EOLhyphen"/>lutely refus'd the Stage, and a nice care taken that no<g ref="char:EOLhyphen"/>thing paſs to compliment Vice, or diſcourage Ver<g ref="char:EOLhyphen"/>tue: Nothing that bears the leaſt tendency to Immo<g ref="char:EOLhyphen"/>deſty, ſhou'd be permitted. By this means, the Ladies might came boldly to a new Play; and not be at the trouble of enquiring into its Character, before tthey ap<g ref="char:EOLhyphen"/>pear at the Performance: They need not then be a<g ref="char:EOLhyphen"/>fraid of paying too dear for their Divreſion, nor of be<g ref="char:EOLhyphen"/>ing
+<pb n="87" facs="tcp:47976:59"/>at the coſt of Bluſhes as well as Mony, for their Entertainment.</p>
+            <p>The Stage being thus re<g ref="char:EOLhyphen"/>gulated, it will afford us In<g ref="char:EOLhyphen"/>ſtruction as well as Delight, or at leaſt it will become an Innocent Diverſion: And in order to encourage it's continuance in this State, I wou'd have all Ladies, (as I wou'd my ſelf) come con<g ref="char:EOLhyphen"/>ſtantly on the POET's Night</p>
+            <sp>
+               <pb n="88" facs="tcp:47976:60" rendition="simple:additions"/>
+               <speaker>Mr. <hi>Johnſ.</hi>
+               </speaker>
+               <p>Well, all I have to ſay, Mr. <hi>Smith,</hi> is, 'tis a La<g ref="char:EOLhyphen"/>dy's you tell me; I am a Lady's humble Servant at all times.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Smith.</hi>
+               </speaker>
+               <p>And I am yours Sir; come, will you walk Mr. <hi>Johnſon?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Johnſ.</speaker>
+               <p>O Sir,—nay, but pray now,—</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Indeed Sir,—I won't take the Wall of you by no means,— you are Sir <hi>Jeremy Congreve</hi>'s Back,— pray Sir,— Your moſt Humble Servant.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47976:60"/>
+         </div>
+      </body>
+   </text>
+</TEI>
